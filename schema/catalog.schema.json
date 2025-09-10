@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "İlacım Catalog Schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "İlaç Adı": {
+        "type": "string",
+        "minLength": 1
+      },
+      "Barkod": {
+        "type": "string",
+        "pattern": "^[0-9]{13}$",
+        "description": "EAN-13 barcode as a 13-digit string"
+      },
+      "ATC Kodu": {
+        "type": ["string", "null"]
+      },
+      "ATC Adı": {
+        "type": ["string", "null"]
+      },
+      "Firma Adı": {
+        "type": ["string", "null"]
+      },
+      "Reçete Türü": {
+        "type": ["string", "null"]
+      },
+      "Durumu": {
+        "type": ["string", "null"]
+      }
+    },
+    "required": ["İlaç Adı", "Barkod"]
+  }
+}
