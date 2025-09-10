@@ -17,10 +17,9 @@ jobs:
         with:
           node-version: 20
 
-      - name: Validate docs/medications_catalog.json against schema
-        run: npx --yes ajv-cli@5.0.0 validate -s schema/catalog.schema.json -d docs/medications_catalog.json --strict=true
+      - name: Validate medications_catalog.json against schema
+        run: npx --yes ajv-cli@5.0.0 validate -s schema/catalog.schema.json -d medications_catalog.json --strict=true
 
-      # Optional: show a summary of entry count (simple sanity check)
-      - name: Count entries
+      - name: Count entries (sanity check)
         run: |
-          node -e "const fs=require('fs');const d=JSON.parse(fs.readFileSync('docs/medications_catalog.json','utf8'));console.log('Entries:', Array.isArray(d)?d.length:'N/A'); if(!Array.isArray(d)||d.length<100){console.warn('Warning: entry count seems low');}"
+          node -e "const fs=require('fs');const p='medications_catalog.json';const d=JSON.parse(fs.readFileSync(p,'utf8'));const n=Array.isArray(d)?d.length:0;console.log('Entries:', n); if(!Array.isArray(d) || n < 100){console.warn('Warning: entry count seems low');}"
