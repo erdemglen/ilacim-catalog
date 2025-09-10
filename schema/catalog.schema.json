@@ -11,25 +11,17 @@
         "minLength": 1
       },
       "Barkod": {
-        "type": "string",
-        "pattern": "^[0-9]{13}$",
-        "description": "EAN-13 barcode as a 13-digit string"
+        "oneOf": [
+          { "type": "string", "pattern": "^[0-9]{13}$" },
+          { "type": "number", "minimum": 0 }
+        ],
+        "description": "EAN-13 barkod: 13 haneli numerik string (tercih edilen) veya kaynakta sayı olarak gelebilir."
       },
-      "ATC Kodu": {
-        "type": ["string", "null"]
-      },
-      "ATC Adı": {
-        "type": ["string", "null"]
-      },
-      "Firma Adı": {
-        "type": ["string", "null"]
-      },
-      "Reçete Türü": {
-        "type": ["string", "null"]
-      },
-      "Durumu": {
-        "type": ["string", "null"]
-      }
+      "ATC Kodu": { "type": ["string", "null"] },
+      "ATC Adı":  { "type": ["string", "null"] },
+      "Firma Adı": { "type": ["string", "null"] },
+      "Reçete Türü": { "type": ["string", "null"] },
+      "Durumu": { "type": ["string", "null"] }
     },
     "required": ["İlaç Adı", "Barkod"]
   }
