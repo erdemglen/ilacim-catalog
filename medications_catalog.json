@@ -1,5 +1,1130 @@
 [
  {
+   "İlaç Adı": "PEDITUS 100 ML SURUP",
+   "Barkod": 8680150570268,
+   "ATC Kodu": "N02BE51",
+   "ATC Adı": "paracetamol, combinations excl. Psycholeptics",
+   "Firma Adı": "BERAT BERAN İLAÇ SAN. VE TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "SULJEL PLUS %1+%5 JEL, 50 G",
+   "Barkod": 8680150340069,
+   "ATC Kodu": "M02AA26",
+   "ATC Adı": "nimesulide",
+   "Firma Adı": "BERAT BERAN İLAÇ SAN. VE TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "GLINIUM PLUS 85 MCG / 43 MCG INHALASYON TOZU SERT KAPSUL",
+   "Barkod": 8680865270316,
+   "ATC Kodu": "R03AL04",
+   "ATC Adı": "indacaterol and glycopyrronium bromide",
+   "Firma Adı": "ARIMED İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ZIVER 3 MG TABLET (8 TABLET)",
+   "Barkod": 8680760010642,
+   "ATC Kodu": "P02CF01",
+   "ATC Adı": "ivermectin",
+   "Firma Adı": "HUMANİS SAĞLIK ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DIDOGERON 10 MG FILM KAPLI TABLET (20 TABLET)",
+   "Barkod": 8699511099478,
+   "ATC Kodu": "G03DB01",
+   "ATC Adı": "dydrogesterone",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "NEOMIXOLE 750/200/100 MG VAJINAL TABLET",
+   "Barkod": 8699580100013,
+   "ATC Kodu": "G01AF20",
+   "ATC Adı": "combinations of imidazole derivatives",
+   "Firma Adı": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DANIPTA 10 MG FILM KAPLI TABLET (28 ADET)",
+   "Barkod": 8699680092157,
+   "ATC Kodu": "A10BK01",
+   "ATC Adı": "dapagliflozin",
+   "Firma Adı": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "HYMPAVZI 150 MG/ML ENJEKSIYONLUK COZELTI ICEREN KULLANIMA HAZIR KALEM",
+   "Barkod": 8681308951038,
+   "ATC Kodu": "B02BX11",
+   "ATC Adı": "marstacimab",
+   "Firma Adı": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+   "Reçete Türü": "Mor",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "EXTRANEAL PERITON DIYALIZ COZELTISI (2000 ML CIFTLI TORBA, MINI KAPAKLI)",
+   "Barkod": 8684641200023,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "EXTRANEAL PERITON DIYALIZ COZELTISI (2500 ML TEKLI TORBA)",
+   "Barkod": 8684641200016,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "NUTRINEAL PERITON DIYALIZ COZELTISI (2000 ML CIFTLI TORBA, MINI KAPAKLI)",
+   "Barkod": 8684641200061,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "NUTRINEAL PERITON DIYALIZ COZELTISI (2500 ML TEKLI TORBA)",
+   "Barkod": 8684641200054,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 % 1,36 PERITON DIYALIZ COZELTISI (2000 ML CIFTLI TORBA MINI KAPAKLI)",
+   "Barkod": 8684641200450,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 % 1,36 PERITON DIYALIZ COZELTISI (2500 ML CIFTLI TORBA MINI KAPAKLI)",
+   "Barkod": 8684641200467,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 % 3,86 PERITON DIYALIZ COZELTISI (2000 ML, CIFTLI TORBA, MINI KAPAKLI)",
+   "Barkod": 8684641200658,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 %1,36 PERITON DIYALIZ COZELTISI (2500 ML TEKLI TORBA)",
+   "Barkod": 8684641200412,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 %1.36 CLEARFLEX PERITON DIYALIZ COZELTISI (5000 ML IKI BOLMELI, TEKLI TORBA)",
+   "Barkod": 8684641200559,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 %2,27 CLEARFLEX PERITON DIYALIZ COZELTISI (5000 ML IKI BOLMELI, TEKLI TORBA",
+   "Barkod": 8684641200573,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 %2,27 PERITON DIYALIZ COZELTISI (2000 ML CIFTLI TORBA (MINI KAPAKLI",
+   "Barkod": 8684641200528,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 %2,27 PERITON DIYALIZ COZELTISI (2500 ML CIFTLI TORBA MINI KAPAKLI)",
+   "Barkod": 8684641200535,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 %2,27 PERITON DIYALIZ COZELTISI (2500 ML TEKLI TORBA)",
+   "Barkod": 8684641200481,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 %3.86 CLEARFLEX PERITON DIYALIZ COZELTISI (5000 ML IKI BOLMELI, TEKLI TORBA)",
+   "Barkod": 8684641200597,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PHYSIONEAL 40 %3.86 PERITON DIYALIZ COZELTISI (2500ML TEKLI TORBA)",
+   "Barkod": 8684641200610,
+   "ATC Kodu": "B05D",
+   "ATC Adı": "PERITONEAL DIALYTICS",
+   "Firma Adı": "VANTİVE SAĞLIK HİZMETLERİ LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "FENTIVAG 1000 MG VAJINAL YUMUSAK KAPSUL (2 KAPSUL)",
+   "Barkod": 8699569900115,
+   "ATC Kodu": "G01AF12",
+   "ATC Adı": "fenticonazole",
+   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BULSEF 1 G I.M. ENJEKSIYONLUK COZELTI ICIN TOZ ICEREN FLAKON (3 FLAKON + 3 AMPUL)",
+   "Barkod": 8680080000354,
+   "ATC Kodu": "J01DD04",
+   "ATC Adı": "ceftriaxone",
+   "Firma Adı": "WORLD MEDICINE İLAÇLARI LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "VIDAZA 100 MG SC ENJEKSIYONLUK SUSPANSIYON ICIN TOZ ICEREN 1 FLAKON",
+   "Barkod": 8699726260014,
+   "ATC Kodu": "L01BC07",
+   "ATC Adı": "azacitidine",
+   "Firma Adı": "BRISTOL-MYERS SQUIBB İLAÇLARI INC. İSTANBUL ŞUBESİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BLEOMITU 15 MG ENJEKSIYONLUK/INFUZYONLUK COZELTI HAZIRLAMAK ICIN TOZ",
+   "Barkod": 8699715791345,
+   "ATC Kodu": "L01DC01",
+   "ATC Adı": "bleomycin",
+   "Firma Adı": "KOÇSEL İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "CELPTU 250 MG FILM KAPLI TABLET (100 TABLET)",
+   "Barkod": 8699715090011,
+   "ATC Kodu": "L04AA06",
+   "ATC Adı": "mycophenolic acid",
+   "Firma Adı": "KOÇSEL İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "REVLIMID 5 MG SERT KAPSUL (21 KAPSUL)",
+   "Barkod": 8699726151053,
+   "ATC Kodu": "L04AX04",
+   "ATC Adı": "lenalidomide",
+   "Firma Adı": "BRISTOL-MYERS SQUIBB İLAÇLARI INC. İSTANBUL ŞUBESİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "IMNOVID 1 MG SERT KAPSUL (21 KAPSUL)",
+   "Barkod": 8699726151091,
+   "ATC Kodu": "L04AX06",
+   "ATC Adı": "pomalidomide",
+   "Firma Adı": "BRISTOL-MYERS SQUIBB İLAÇLARI INC. İSTANBUL ŞUBESİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "IMNOVID 2 MG SERT KAPSUL (21 KAPSUL)",
+   "Barkod": 8699726151107,
+   "ATC Kodu": "L04AX06",
+   "ATC Adı": "pomalidomide",
+   "Firma Adı": "BRISTOL-MYERS SQUIBB İLAÇLARI INC. İSTANBUL ŞUBESİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PAROL-K 500 MG/10 MG TABLET (20 TABLET)",
+   "Barkod": 8699717010192,
+   "ATC Kodu": "N02AJ06",
+   "ATC Adı": "codeine and paracetamol",
+   "Firma Adı": "ATABAY KİMYA SANAYİ VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "AUTOSHIELD DUO CIFT TARAFLI OTOMATIK KORUYUCU KALKANLI GUVENLIKLI KALEM IGNESI 5MM 30G 3 KESITLI UC TW 100CT",
+   "Barkod": 383017953539,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BASE-FINE KALEM IGNESI 4MM 32G 3 KESİTLİ UC TW 100CT",
+   "Barkod": 383017082437,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BASE-FINE KALEM IGNESI 5MM 31G 3 KESİTLİ UC TW 100CT",
+   "Barkod": 383017093839,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BASE-FINE KALEM IGNESI 6MM 31G 3 KESİTLİ UC TW 100CT",
+   "Barkod": 383017082536,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BASE-FINE KALEM IGNESI 8MM 31G 3 KESİTLİ UC TW 100CT",
+   "Barkod": 383017094034,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "MICRO-FINE INSULIN SIRINGASI U-100 6MM 31G 0,5 ML 100CT",
+   "Barkod": 383017490430,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "MICRO-FINE INSULIN SIRINGASI U-100 6MM 31G 1ML 100CT",
+   "Barkod": 383017490539,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "MICRO-FINE KALEM IGNESI 4MM 32G 5 KESİTLİ UC TW 100CT",
+   "Barkod": 383017049737,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "MICRO-FINE KALEM IGNESI 5MM 31G 5 KESİTLİ UC TW 100CT",
+   "Barkod": 383017049836,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "MICRO-FINE KALEM IGNESI 6MM 32G 5 KESİTLİ UC TW 100CT",
+   "Barkod": 383017069735,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "MICRO-FINE KALEM IGNESI 8MM 31G 5 KESİTLİ UC TW 100CT",
+   "Barkod": 383017049935,
+   "ATC Kodu": "V07AY",
+   "ATC Adı": "Other non-therapeutic auxiliary products",
+   "Firma Adı": "EMBECTA TURKEY MEDİKAL ÜRÜN VE CİHAZLAR İTHALAT İHRACAT SATIŞ PAZARLAMA VE DAĞITIM LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PANOLIMUS 0,5 MG 50 KAPSUL",
+   "Barkod": 8699702156034,
+   "ATC Kodu": "L04AD02",
+   "ATC Adı": "tacrolimus",
+   "Firma Adı": "BİEM İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "FERIMAX 100 MG/2 ML 5 AMPUL",
+   "Barkod": 8699569750215,
+   "ATC Kodu": "B03AC",
+   "ATC Adı": "iron, parenteral preparations",
+   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ALVASTIN 80 MG 30 FILM KAPLI TABLET",
+   "Barkod": 8699543090542,
+   "ATC Kodu": "C10AA05",
+   "ATC Adı": "atorvastatin",
+   "Firma Adı": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "MOMECON % 0,05 BURUN SPREYI ,SUSPANSIYON (18 G)",
+   "Barkod": 8699569540069,
+   "ATC Kodu": "R01AD09",
+   "ATC Adı": "mometasone",
+   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "WINRHO SDF 1500 IU (300 MCG)/1,3 ML IV/IM ENJEKSIYONLUK COZELTI",
+   "Barkod": 8699733980769,
+   "ATC Kodu": "J06BB01",
+   "ATC Adı": "anti-d (rh) immunoglobulin",
+   "Firma Adı": "RA İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Mor",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ASEC 100 MG 20 FILM TABLET",
+   "Barkod": 8680381900209,
+   "ATC Kodu": "M01AB16",
+   "ATC Adı": "aceclofenac",
+   "Firma Adı": "GLOBAL PHARMA İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BIO-SIDOZ 1000 MG GASTRO REZISTAN TABLET (50 TABLET)",
+   "Barkod": 8699578040079,
+   "ATC Kodu": "A02AH",
+   "ATC Adı": "Antacids with sodium bicarbonate",
+   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "GLYNETIL %0.3 GOZ DAMLASI, COZELTI",
+   "Barkod": 8680199610253,
+   "ATC Kodu": "S01AA23",
+   "ATC Adı": "netilmicin",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "TRICEF 600 MG FILM KAPLI TABLET (14 TABLET)",
+   "Barkod": 8699680091969,
+   "ATC Kodu": "J01DD15",
+   "ATC Adı": "cefdinir",
+   "Firma Adı": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "TRICEF 600 MG FILM KAPLI TABLET (10 TABLET)",
+   "Barkod": 8699680091952,
+   "ATC Kodu": "J01DD15",
+   "ATC Adı": "cefdinir",
+   "Firma Adı": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PERILOPIN PLUS 4/1,25/5 MG FILM KAPLI TABLET (30 ADET)",
+   "Barkod": 8699511091830,
+   "ATC Kodu": "C09BX01",
+   "ATC Adı": "perindopril, amlodipine and indapamide",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PERILOPIN 8 MG/10 MG TABLET (30\n TABLET)",
+   "Barkod": 8699511010336,
+   "ATC Kodu": "C09BB04",
+   "ATC Adı": "perindopril and amlodipine",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "VILCOZA 50 MG TABLET (56 TABLET)",
+   "Barkod": 8680008000299,
+   "ATC Kodu": "A10BH02",
+   "ATC Adı": "vildagliptin",
+   "Firma Adı": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "IMUPRET ORAL DAMLA (50 ML)",
+   "Barkod": 8680952385954,
+   "ATC Kodu": "R05X",
+   "ATC Adı": "OTHER COLD PREPARATIONS",
+   "Firma Adı": "BİONORİCA İLAÇ TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "VILMET 50 MG / 850 MG FILM KAPLI TABLET (60 TABLET)",
+   "Barkod": 8680008010076,
+   "ATC Kodu": "A10BD08",
+   "ATC Adı": "metformin and vildagliptin",
+   "Firma Adı": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "NEBIDO 250 MG/ML IM ENJEKSIYONLUK COZELTI ICEREN FLAKON (4 ML X 1 FLAKON)",
+   "Barkod": 8699508770120,
+   "ATC Kodu": "G03BA03",
+   "ATC Adı": "testosterone",
+   "Firma Adı": "MENARİNİ SAĞLIK VE İLAÇ SANAYİ TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ZENO S 500 MG DAGILABILIR TABLET (28 TABLET)",
+   "Barkod": 8699540030909,
+   "ATC Kodu": "V03AC03",
+   "ATC Adı": "deferasirox",
+   "Firma Adı": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "OPSYNVI 10 MG/40 MG FILM KAPLI TABLET",
+   "Barkod": 8699593095672,
+   "ATC Kodu": "C02KX54",
+   "ATC Adı": "macitentan and tadalafil",
+   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MALZEME SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "FULMOREX 10 MG FILM KAPLI TABLET (28 TABLET)",
+   "Barkod": 8699738090623,
+   "ATC Kodu": "C02KX04",
+   "ATC Adı": "macitentan",
+   "Firma Adı": "FARMA-TEK İLAÇ SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ZENO S 125 MG DAGILABILIR TABLET (28 TABLET)",
+   "Barkod": 8699540030886,
+   "ATC Kodu": "V03AC03",
+   "ATC Adı": "deferasirox",
+   "Firma Adı": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ZENO S 250 MG DAGILABILIR TABLET (28 TABLET)",
+   "Barkod": 8699540030893,
+   "ATC Kodu": "V03AC03",
+   "ATC Adı": "deferasirox",
+   "Firma Adı": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "KARGOCED 200 MG DAGILABILIR TABLET (5 TABLET)",
+   "Barkod": 8699540031623,
+   "ATC Kodu": "A16AA05",
+   "ATC Adı": "carglumic acid",
+   "Firma Adı": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "KARGOCED 200 MG DAGILABILIR TABLET (12 TABLET)",
+   "Barkod": 8699540045439,
+   "ATC Kodu": "A16AA05",
+   "ATC Adı": "carglumic acid",
+   "Firma Adı": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PAUSED 5 MG 21 SERT KAPSUL",
+   "Barkod": 8680833150282,
+   "ATC Kodu": "L04AX04",
+   "ATC Adı": "lenalidomide",
+   "Firma Adı": "ARVEN İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ASIPEC 1 MG 30 TABLET",
+   "Barkod": 8699638015313,
+   "ATC Kodu": "N04BD02",
+   "ATC Adı": "rasagiline",
+   "Firma Adı": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "FLOSE 137 MCG / 50 MCG BURUN SPREYI, SUSPANSIYON (120 DOZ)",
+   "Barkod": 8680199019445,
+   "ATC Kodu": "R01AD58",
+   "ATC Adı": "fluticasone, combinations",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ZATIFEX 1 MG/ML ORAL DAMLA, COZELTI",
+   "Barkod": 8699705590057,
+   "ATC Kodu": "R06AX17",
+   "ATC Adı": "ketotifen",
+   "Firma Adı": "HAKAY İLAÇ PAZARLAMA SAN. VE TİCARET LTD. ŞTİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PERILOPIN 4 MG/10 MG TABLET (30\n TABLET)",
+   "Barkod": 8699511010350,
+   "ATC Kodu": "C09BB04",
+   "ATC Adı": "perindopril and amlodipine",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PIMAVANS 34 MG SERT KAPSUL (30 ADET)",
+   "Barkod": 8680760150423,
+   "ATC Kodu": "N05AX17",
+   "ATC Adı": "pimavanserin",
+   "Firma Adı": "HUMANİS SAĞLIK ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "LYNOZID 600 MG/300ML I.V. INFUZYON\n IÇIN ÇOZELTI IÇEREN FLAKON (1 FLAKON)",
+   "Barkod": 8680199752694,
+   "ATC Kodu": "J01XX08",
+   "ATC Adı": "linezolid",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ROLGICIN % 0,5 STERIL GOZ DAMLASI, COZELTI (1 SISE)",
+   "Barkod": 8680199023275,
+   "ATC Kodu": "S01BC05",
+   "ATC Adı": "ketorolac",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "EMPACROS 10 MG FILM KAPLI TABLET",
+   "Barkod": 8699514097846,
+   "ATC Kodu": "A10BK03",
+   "ATC Adı": "empagliflozin",
+   "Firma Adı": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "EMPACROS 25 MG FILM KAPLI TABLET",
+   "Barkod": 8699514097839,
+   "ATC Kodu": "A10BK03",
+   "ATC Adı": "empagliflozin",
+   "Firma Adı": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PERILOPIN 4 MG/5 MG TABLET (30\n TABLET)",
+   "Barkod": 8699511010343,
+   "ATC Kodu": "C09BB04",
+   "ATC Adı": "perindopril and amlodipine",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PERILOPIN 8 MG/5 MG TABLET (30\n TABLET)",
+   "Barkod": 8699511010329,
+   "ATC Kodu": "C09BB04",
+   "ATC Adı": "perindopril and amlodipine",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PERILOPIN PLUS 4/1,25/10 MG FILM KAPLI TABLET (30 ADET)",
+   "Barkod": 8699511091847,
+   "ATC Kodu": "C09BX01",
+   "ATC Adı": "perindopril, amlodipine and indapamide",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PERILOPIN PLUS 8/2,5/5 MG FILM KAPLI TABLET (30 ADET)",
+   "Barkod": 8699511091854,
+   "ATC Kodu": "C09BX01",
+   "ATC Adı": "perindopril, amlodipine and indapamide",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "PERILOPIN PLUS 8 MG/2,5 MG/10 MG FILM KAPLI TABLET (30 ADET)",
+   "Barkod": 8699511091861,
+   "ATC Kodu": "C09BX01",
+   "ATC Adı": "perindopril, amlodipine and indapamide",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "GLUMACID 200 MG DAGILABILIR TABLET (15 TABLET)",
+   "Barkod": 8699738070052,
+   "ATC Kodu": "A16AA05",
+   "ATC Adı": "carglumic acid",
+   "Firma Adı": "FARMA-TEK İLAÇ SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "AVAMYS 27,5 MCG 120 DOZ BURUN SPREYI",
+   "Barkod": 8699522541379,
+   "ATC Kodu": "R01AD12",
+   "ATC Adı": "fluticasone furoate",
+   "Firma Adı": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "AMVASTAN 20 MG 30 FILM KAPLI TABLET",
+   "Barkod": 8680199090338,
+   "ATC Kodu": "C10AA05",
+   "ATC Adı": "atorvastatin",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ROTAZAR 300 MG FILM TABLET (28 TABLET)",
+   "Barkod": 8680199093261,
+   "ATC Kodu": "C09CA04",
+   "ATC Adı": "irbesartan",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "RAWEX %0,5 JEL",
+   "Barkod": 8683059000027,
+   "ATC Kodu": "M02AA07",
+   "ATC Adı": "piroxicam",
+   "Firma Adı": "FORTEMPHARMA İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "COLEWINDE 5.000 I.U. YUMUSAK KAPSUL (50 ADET)",
+   "Barkod": 8680133003356,
+   "ATC Kodu": "A11CC05",
+   "ATC Adı": "colecalciferol",
+   "Firma Adı": "TAB İLAÇ SANAYİ ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "COLEWINDE 10.000 I.U. YUMUSAK KAPSUL (30 KAPSUL)",
+   "Barkod": 8680133003363,
+   "ATC Kodu": "A11CC05",
+   "ATC Adı": "colecalciferol",
+   "Firma Adı": "TAB İLAÇ SANAYİ ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "KANSILAK % 53,5 + % 36,6 REKTAL COZELTI (10 G)",
+   "Barkod": 8683052347389,
+   "ATC Kodu": "A06AG20",
+   "ATC Adı": "combinations",
+   "Firma Adı": "MİLPHA İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "COLEWINDE 20.000 I.U. YUMUSAK KAPSUL (14 ADET)",
+   "Barkod": 8680133003370,
+   "ATC Kodu": "A11CC05",
+   "ATC Adı": "colecalciferol",
+   "Firma Adı": "TAB İLAÇ SANAYİ ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "COLEWINDE 50.000 I.U. YUMUSAK KAPSUL (8 ADET)",
+   "Barkod": 8680133003387,
+   "ATC Kodu": "A11CC05",
+   "ATC Adı": "colecalciferol",
+   "Firma Adı": "TAB İLAÇ SANAYİ ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "LIV-GAMMA SN 10 G/200 ML IV INFUZYONLUK COZELTI",
+   "Barkod": 8699823980808,
+   "ATC Kodu": "J06BA02",
+   "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
+   "Firma Adı": "ARVATERA İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Mor",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ONAXAN 15 MG FİLM KAPLI TABLET (28 TABLET)",
+   "Barkod": 8699543092096,
+   "ATC Kodu": "B01AF01",
+   "ATC Adı": "rivaroxaban",
+   "Firma Adı": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ONAXAN 20 MG FİLM KAPLI TABLET (28 TABLET)",
+   "Barkod": 8699543092102,
+   "ATC Kodu": "B01AF01",
+   "ATC Adı": "rivaroxaban",
+   "Firma Adı": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BEGAMIR 50 MG UZATILMIS SALIMLI 30 FILM TABLET",
+   "Barkod": 8699525099150,
+   "ATC Kodu": "G04BD12",
+   "ATC Adı": "mirabegron",
+   "Firma Adı": "DEVA HOLDİNG ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ALBIPAKSEL 100 MG INFUZYONLUK DISPERISYON HAZIRLAMADA KULLANILACAK KONSANTRE ICIN TOZ (1 ADET)",
+   "Barkod": 8699638795574,
+   "ATC Kodu": "L01CD01",
+   "ATC Adı": "paclitaxel",
+   "Firma Adı": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ULTOMIRIS 300 MG/ 3 ML INFUZYONLUK COZELTI HAZIRLAMAK ICIN KONSANTRE",
+   "Barkod": 8680131470105,
+   "ATC Kodu": "L04AJ02",
+   "ATC Adı": "ravulizumab",
+   "Firma Adı": "ALEXİON İLAÇ TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "TRACTAN 32 MG DAGILABILIR TABLET",
+   "Barkod": 8680760070134,
+   "ATC Kodu": "C02KX01",
+   "ATC Adı": "bosentan",
+   "Firma Adı": "HUMANİS SAĞLIK ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "CORASPIN 100 MG 30 ENTERIK KAPLI TABLET",
+   "Barkod": 8699546130238,
+   "ATC Kodu": "B01AC06",
+   "ATC Adı": "acetylsalicylic acid",
+   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "CORASPIN 300 MG 30 ENTERIK KAPLI TABLET",
+   "Barkod": 8699546130153,
+   "ATC Kodu": "B01AC06",
+   "ATC Adı": "acetylsalicylic acid",
+   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "TAB MELATONIN 5 MG TABLET (30 TABLET)",
+   "Barkod": 8680133002564,
+   "ATC Kodu": "N05CH01",
+   "ATC Adı": "melatonin",
+   "Firma Adı": "TAB İLAÇ SANAYİ ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "FLEBOGAMMA% 10 DIF 10 G/100 ML IV INFUZYONLUK COZELTI (1 FLAKON)",
+   "Barkod": 8699769980405,
+   "ATC Kodu": "J06BA02",
+   "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
+   "Firma Adı": "DEM İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Mor",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DICETEL 100 MG 80 FILM TABLET",
+   "Barkod": 8699548095573,
+   "ATC Kodu": "A03AX04",
+   "ATC Adı": "pinaverium",
+   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DICETEL 100 MG 40 FILM TABLET",
+   "Barkod": 8699548095566,
+   "ATC Kodu": "A03AX04",
+   "ATC Adı": "pinaverium",
+   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "OVEFRAN 49 MG/51 MG FILM KAPLI TABLET (56 ADET)",
+   "Barkod": 8699511099287,
+   "ATC Kodu": "C09DX04",
+   "ATC Adı": "valsartan and sacubitril",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "OVEFRAN 24 MG/26 MG FILM KAPLI TABLET (28 ADET)",
+   "Barkod": 8699511099270,
+   "ATC Kodu": "C09DX04",
+   "ATC Adı": "valsartan and sacubitril",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "OVEFRAN 97 MG/103 MG FİLM KAPLI TABLET (56 ADET)",
+   "Barkod": 8699511099263,
+   "ATC Kodu": "C09DX04",
+   "ATC Adı": "valsartan and sacubitril",
+   "Firma Adı": "SABA İLAÇ SANAYİİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "JASITA 100 MG FILM KAPLI TABLET (28 ADET)",
+   "Barkod": 8699540026667,
+   "ATC Kodu": "A10BH01",
+   "ATC Adı": "sitagliptin",
+   "Firma Adı": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "BUPELEN % 0,1 + % 2,5 JEL",
+   "Barkod": 8699738340605,
+   "ATC Kodu": "D10AD53",
+   "ATC Adı": "adapalene, combinations",
+   "Firma Adı": "FARMA-TEK İLAÇ SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "FLEBOGAMMA% 10 DIF 20 G/200 ML IV INFUZYONLUK COZELTI (1 FLAKON)",
+   "Barkod": 8699769980412,
+   "ATC Kodu": "J06BA02",
+   "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
+   "Firma Adı": "DEM İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Mor",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "GLYXAR 10 MG FILM KAPLI TABLET",
+   "Barkod": 8699543092577,
+   "ATC Kodu": "A10BK01",
+   "ATC Adı": "dapagliflozin",
+   "Firma Adı": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DIAMOND 32 MG DAGILABILIR TABLET (56 TABLET)",
+   "Barkod": 8699514096658,
+   "ATC Kodu": "C02KX01",
+   "ATC Adı": "bosentan",
+   "Firma Adı": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ORSERDU 86 MG FILM KAPLI TABLET (28 ADET)",
+   "Barkod": 8699831090414,
+   "ATC Kodu": "L02BA04",
+   "ATC Adı": "elacestrant",
+   "Firma Adı": "MENARİNİ STEMLİNE İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ORSERDU 345 MG FILM KAPLI TABLET (28 ADET)",
+   "Barkod": 8699831090421,
+   "ATC Kodu": "L02BA04",
+   "ATC Adı": "elacestrant",
+   "Firma Adı": "MENARİNİ STEMLİNE İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "YAZZ 3 MG/0.02 MG FILM KAPLI TABLET, 84 (3x(24+4)) ADET",
+   "Barkod": 8699546094189,
+   "ATC Kodu": "G03AA12",
+   "ATC Adı": "drospirenone and ethinylestradiol",
+   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "YAZZ 3 MG/0.02 MG FILM KAPLI TABLET, 28 (24+4) ADET",
+   "Barkod": 8699546090051,
+   "ATC Kodu": "G03AA12",
+   "ATC Adı": "drospirenone and ethinylestradiol",
+   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "VIKISEF 1 G IV ENJEKSIYONLUK/INFUZYONLUK COZELTI HAZIRLAMAK ICIN TOZ VE COZUCU",
+   "Barkod": 8681281000242,
+   "ATC Kodu": "J01DD04",
+   "ATC Adı": "ceftriaxone",
+   "Firma Adı": "TÜRKEM İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "NOTUSS 15 MG/5 ML ŞURUP (100 ML)",
+   "Barkod": 8699772570006,
+   "ATC Kodu": "R05DB13",
+   "ATC Adı": "butamirate",
+   "Firma Adı": "TRIPHARMA İLAÇ SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DUOPHEAL 2,5 MG FILM KAPLI TABLET (42 ADET)",
+   "Barkod": 8684020726021,
+   "ATC Kodu": "C02KX05",
+   "ATC Adı": "riociguat",
+   "Firma Adı": "PHEALX İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DUOPHEAL 1,5 MG FILM KAPLI TABLET (42 ADET)",
+   "Barkod": 8684020726069,
+   "ATC Kodu": "C02KX05",
+   "ATC Adı": "riociguat",
+   "Firma Adı": "PHEALX İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DUOPHEAL 2 MG FILM KAPLI TABLET (42 ADET)",
+   "Barkod": 8684020726045,
+   "ATC Kodu": "C02KX05",
+   "ATC Adı": "riociguat",
+   "Firma Adı": "PHEALX İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DUOPHEAL 1 MG FILM KAPLI TABLET (42 ADET)",
+   "Barkod": 8684020726083,
+   "ATC Kodu": "C02KX05",
+   "ATC Adı": "riociguat",
+   "Firma Adı": "PHEALX İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DUOPHEAL 0,5 MG FILM KAPLI TABLET (42 ADET)",
+   "Barkod": 8684020726106,
+   "ATC Kodu": "C02KX05",
+   "ATC Adı": "riociguat",
+   "Firma Adı": "PHEALX İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "OVADRIL %13,33 + %1,66 + %2,5 LOSYON (40 G)",
+   "Barkod": 8699622480028,
+   "ATC Kodu": "D04AB01",
+   "ATC Adı": "lidocaine",
+   "Firma Adı": "TOPRAK İLAÇ VE KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "OKSAPAR 8000 ANTI-XA IU/0,8 ML ENJEKSIYONLUK COZELTI ICEREN KULLANIMA HAZIR ENJEKTOR (2 ENJEKTOR)",
+   "Barkod": 8699828950127,
+   "ATC Kodu": "B01AB05",
+   "ATC Adı": "enoxaparin",
+   "Firma Adı": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
    "İlaç Adı": "AZILECT 1 MG 30 TABLET",
    "Barkod": 8685025010023,
    "ATC Kodu": "N04BD02",
@@ -396,15 +1521,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "ZITRASIN 200 MG/5 ML ORAL SUSPANSIYON HAZIRLAMAK ICIN TOZ (30 ML)",
-   "Barkod": 8680199026993,
-   "ATC Kodu": "J01FA10",
-   "ATC Adı": "azithromycin",
-   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "MESAVIXA 4 G/60 G REKTAL SUSPANSIYON (7 ADET)",
    "Barkod": 8681801921989,
    "ATC Kodu": "A07EC02",
@@ -585,15 +1701,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "YAZZ 3MG /0.02MG FLM KAPLI TABLET (3x(24 + 4) TABLET)",
-   "Barkod": 8699546094189,
-   "ATC Kodu": "G03AA12",
-   "ATC Adı": "drospirenone and ethinylestradiol",
-   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "CHAMPIX 0,5 MG 11 + 1 MG 42 FILM KAPLI TABLET",
    "Barkod": 8681308097484,
    "ATC Kodu": "N07BA03",
@@ -688,15 +1795,6 @@
    "Barkod": 8699546650040,
    "ATC Kodu": "L01EX12",
    "ATC Adı": "larotrectinib",
-   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "YAZZ 24+4 FILM KAPLI TABLET",
-   "Barkod": 8699546090051,
-   "ATC Kodu": "G03AA12",
-   "ATC Adı": "drospirenone and ethinylestradiol",
    "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
@@ -851,15 +1949,6 @@
    "ATC Kodu": "B02BX05",
    "ATC Adı": "eltrombopag",
    "Firma Adı": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "ZOVALOX 250 MG INFUZYONLUK COZELTI HAZIRLAMADA KULLANILACAK KONSANTRE ICIN TOZ",
-   "Barkod": 8680222790228,
-   "ATC Kodu": "J05AB01",
-   "ATC Adı": "aciclovir",
-   "Firma Adı": "HAVER TRAKYA İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -1373,15 +2462,6 @@
    "ATC Kodu": "R01AD01",
    "ATC Adı": "beclometasone",
    "Firma Adı": "TEBEM İLAÇ SANAYİ TURİZM VE TİCARET ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "OVADRIL %13,33 + %1,66 + %2,5 LOSYON (40 G)",
-   "Barkod": 8699622480028,
-   "ATC Kodu": "D04A",
-   "ATC Adı": "antipruritics,incl.,antihitamines,anesthetics,etc",
-   "Firma Adı": "TOPRAK İLAÇ VE KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -2223,15 +3303,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "ANTIBEKSIN 100 ML SURUP",
-   "Barkod": 8698978570018,
-   "ATC Kodu": "R05CA10",
-   "ATC Adı": "combinations",
-   "Firma Adı": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "BONDRONAT 6MG/6ML IV INFUZYONLUK KONSANTRE COZELTI (1 ADET)",
    "Barkod": 8699543760032,
    "ATC Kodu": "M05BA06",
@@ -2871,15 +3942,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "KIDYFEN PEDIATRIK SUSPANSIYON",
-   "Barkod": 8680008010649,
-   "ATC Kodu": "M01AE01",
-   "ATC Adı": "ibuprofen",
-   "Firma Adı": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "TOLIVER SR 4 MG UZATILMIS \n SALIMLI KAPSUL (28 KAPSUL)",
    "Barkod": 8680698170463,
    "ATC Kodu": "G04BD07",
@@ -3029,42 +4091,6 @@
    "ATC Kodu": "B05XA03",
    "ATC Adı": "sodium chloride",
    "Firma Adı": "İ.E. ULAGAY İLAÇ SANAYİİ TÜRK A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "%0,9 SODYUM KLORUR PVC 100 ML SOLUSYON",
-   "Barkod": 8699535690125,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "%0,9 SODYUM KLORUR PVC 150 ML SOLUSYON",
-   "Barkod": 8699535690170,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "%0,9 SODYUM KLORUR PVC 250 ML SOLUSYON",
-   "Barkod": 8699535690187,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "%0,9 SODYUM KLORUR PVC 3000 ML SOLUSYON",
-   "Barkod": 8699535690163,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -3888,33 +4914,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "%5 DEKSTROZ PVC 100 ML SOLUSYON",
-   "Barkod": 8699535690323,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "%5 DEKSTROZ PVC 150 ML SOLUSYON",
-   "Barkod": 8699535690354,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "%5 DEKSTROZ PVC 250 ML SOLUSYON",
-   "Barkod": 8699535690361,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "%5 DEKSTROZ RINGER LAKTAT BIOSEL SOLUSYON 1000 ML SETLI SISE",
    "Barkod": 8699788691092,
    "ATC Kodu": "B05BB02",
@@ -4365,15 +5364,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "ABITIGA 250 MG FILM KAPLI TABLET",
-   "Barkod": 8699638095513,
-   "ATC Kodu": "L02BX03",
-   "ATC Adı": "abiraterone",
-   "Firma Adı": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "ABIZOL 1 MG/ML ORAL COZELTI 150 ML",
    "Barkod": 8699540570078,
    "ATC Kodu": "N05AX12",
@@ -4635,15 +5625,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "ACMEL 500 MG/5 ML IM/IV/SC ENJEKSIYONLUK COZELTI (5 ADET)",
-   "Barkod": 8681332750010,
-   "ATC Kodu": "A11GA01",
-   "ATC Adı": "ascorbic acid (vit c)",
-   "Firma Adı": "MENTA PHARMA İLAÇ SAN. VE TİC. LTD.ŞTİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "ACNEDUR %3 MERHEM (20 G)",
    "Barkod": 8699587383136,
    "ATC Kodu": "D06AA04",
@@ -4757,15 +5738,6 @@
    "ATC Kodu": "L04AC07",
    "ATC Adı": "tocilizumab",
    "Firma Adı": "ROCHE MÜSTAHZARLARI SANAYİ ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "ACTIFED 150 ML SURUP",
-   "Barkod": 8699522575176,
-   "ATC Kodu": "R01BA52",
-   "ATC Adı": "pseudoephedrine, combinations",
-   "Firma Adı": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -6417,15 +7389,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "ALQUIRA %5 KREM",
-   "Barkod": 8683262443123,
-   "ATC Kodu": "D06BB10",
-   "ATC Adı": "imiquimod",
-   "Firma Adı": "BEYMED İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "ALTUZAN ROCHE 100MG/4ML KONS.INF.COZ.ICEREN 1 FLAKON",
    "Barkod": 8699505762821,
    "ATC Kodu": "L01FG01",
@@ -7178,15 +8141,6 @@
    "ATC Kodu": "R03AL03",
    "ATC Adı": "vilanterol and umeclidinium bromide",
    "Firma Adı": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "A-NOX FORT 550 MG 20 TABLET",
-   "Barkod": 8699651010210,
-   "ATC Kodu": "M01AE02",
-   "ATC Adı": "naproxen",
-   "Firma Adı": "AROMA İLAÇ SAN.LTD.ŞTİ.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -9414,15 +10368,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "AZILECT 1 MG 30 FILM TABLET",
-   "Barkod": 8699638015313,
-   "ATC Kodu": "N04BD02",
-   "ATC Adı": "rasagiline",
-   "Firma Adı": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "AZINEX 30 MG/5 ML 150 ML SURUP",
    "Barkod": 8699844570750,
    "ATC Kodu": "R05DB27",
@@ -9963,24 +10908,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "BALVERSA 3 MG FILM KAPLI TABLET (56 TABLET)",
-   "Barkod": 8699593095627,
-   "ATC Kodu": "L01EN01",
-   "ATC Adı": "erdafitinib",
-   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "BALVERSA 3 MG FILM KAPLI TABLET (84 TABLET)",
-   "Barkod": 8699593095634,
-   "ATC Kodu": "L01EN01",
-   "ATC Adı": "erdafitinib",
-   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "BALVERSA 4 MG FILM KAPLI TABLET (28 TABLET)",
    "Barkod": 8699593095641,
    "ATC Kodu": "L01EN01",
@@ -10337,15 +11264,6 @@
    "ATC Kodu": "R01AD01",
    "ATC Adı": "beclometasone",
    "Firma Adı": "DEVA HOLDİNG A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "BECONYL 1,5 MG + 66,5 MG/ 5 ML SURUP (100 ML)",
-   "Barkod": 8681725054701,
-   "ATC Kodu": "R03CC53",
-   "ATC Adı": "terbutaline, combinations",
-   "Firma Adı": "ABAYPHARMA SAĞLIK ÜRÜNLERİ SAN. TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -10766,15 +11684,6 @@
  {
    "İlaç Adı": "BENVIDA 150 MG 56 FILM KAPLI TABLET (56 TABLET)",
    "Barkod": 8699569092803,
-   "ATC Kodu": "N03AX18",
-   "ATC Adı": "lacosamide",
-   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "BENVIDA 200 MG 56 FILM KAPLI TABLET",
-   "Barkod": 8699569092742,
    "ATC Kodu": "N03AX18",
    "ATC Adı": "lacosamide",
    "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
@@ -12713,15 +13622,6 @@
    "ATC Kodu": "L01EC03",
    "ATC Adı": "encorafenib",
    "Firma Adı": "PIERRE FABRE İLAÇ A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "BRAVEX 400 MG YUMUSAK KAPSUL (30 KAPSUL)",
-   "Barkod": 8680199197662,
-   "ATC Kodu": "M01AE01",
-   "ATC Adı": "ibuprofen",
-   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -15831,15 +16731,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "CLAIRYG 50 MG/ML, 100 ML INFUZYONLUK COZELTI (1 FLAKON)",
-   "Barkod": 8699538983699,
-   "ATC Kodu": "J06BA02",
-   "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
-   "Firma Adı": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Mor",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "CLARICIDE 500 MG 14 TABLET",
    "Barkod": 8699569090311,
    "ATC Kodu": "J01FA09",
@@ -16119,15 +17010,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "CLOPIXOL 10 MG FILM KAPLI TABLET (100 TABLET)",
-   "Barkod": 8699795091359,
-   "ATC Kodu": "N05AF05",
-   "ATC Adı": "zuclopenthixol",
-   "Firma Adı": "LUNDBECK İLAÇ TİC. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "CLOPIXOL 2 MG 50 TABLET",
    "Barkod": 8699795090505,
    "ATC Kodu": "N05AF05",
@@ -16139,15 +17021,6 @@
  {
    "İlaç Adı": "CLOPIXOL 20 MG 20 ML DAMLA",
    "Barkod": 8699795590012,
-   "ATC Kodu": "N05AF05",
-   "ATC Adı": "zuclopenthixol",
-   "Firma Adı": "LUNDBECK İLAÇ TİC. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "CLOPIXOL 25 MG FILM KAPLI TABLET (20 TABLET)",
-   "Barkod": 8699795091366,
    "ATC Kodu": "N05AF05",
    "ATC Adı": "zuclopenthixol",
    "Firma Adı": "LUNDBECK İLAÇ TİC. LTD. ŞTİ.",
@@ -17127,24 +18000,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "CORASPIN 100 MG 30 TABLET",
-   "Barkod": 8699546130238,
-   "ATC Kodu": "B01AC06",
-   "ATC Adı": "acetylsalicylic acid",
-   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "CORASPIN 300 MG 30 TABLET",
-   "Barkod": 8699546130153,
-   "ATC Kodu": "B01AC06",
-   "ATC Adı": "acetylsalicylic acid",
-   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "CORBINAL 250 MG 14 TABLET",
    "Barkod": 8699578010430,
    "ATC Kodu": "D01BA02",
@@ -17361,15 +18216,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "COVERAM 7 MG/5 MG TABLET (30 TABLET)",
-   "Barkod": 8699552091066,
-   "ATC Kodu": "C09BB04",
-   "ATC Adı": "perindopril and amlodipine",
-   "Firma Adı": "SERVIER ILAÇ VE ARAŞTIRMA A.S.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "COVERSYL 10 MG 30 FILM TABLET",
    "Barkod": 8699552090465,
    "ATC Kodu": "C09AA04",
@@ -17498,15 +18344,6 @@
  {
    "İlaç Adı": "CRESTOR 20 MG 28 FILM TABLET",
    "Barkod": 8699786090163,
-   "ATC Kodu": "C10AA07",
-   "ATC Adı": "rosuvastatin",
-   "Firma Adı": "ASTRAZENECA İLAÇ SAN.VE TİC.LTD.ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "CRESTOR 40 MG 28 FILM TABLET",
-   "Barkod": 8699786090187,
    "ATC Kodu": "C10AA07",
    "ATC Adı": "rosuvastatin",
    "Firma Adı": "ASTRAZENECA İLAÇ SAN.VE TİC.LTD.ŞTİ.",
@@ -17690,15 +18527,6 @@
    "ATC Kodu": "H05BX01",
    "ATC Adı": "cinacalcet",
    "Firma Adı": "VEM İLAÇ SAN. VE TİC. ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "CYOVEL 75 MG SERT KAPSUL (10 ADET)",
-   "Barkod": 8699536150789,
-   "ATC Kodu": "J05AH02",
-   "ATC Adı": "oseltamivir",
-   "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -18126,20 +18954,20 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "DEFEJACT 500 MG DAGILABiLiR TABLET (28 TABLET)",
-   "Barkod": 8680199078824,
-   "ATC Kodu": "V03AC03",
-   "ATC Adı": "deferasirox",
-   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "DEFIRINAL 500 MG DAGILABILIR TABLET (28 TABLET)",
    "Barkod": 8684521779410,
    "ATC Kodu": "V03AC03",
    "ATC Adı": "deferasirox",
    "Firma Adı": "PHARMİNAL MEDİKAL İLAÇ ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "DEFEJACT 500 MG DAGILABiLiR TABLET (28 TABLET)",
+   "Barkod": 8680199078824,
+   "ATC Kodu": "V03AC03",
+   "ATC Adı": "deferasirox",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -19215,15 +20043,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "DESIFEROL S 50000 IU/ 15 ML ORAL DAMLA, COZELTI",
-   "Barkod": 8699591590087,
-   "ATC Kodu": "A11CC05",
-   "ATC Adı": "colecalciferol",
-   "Firma Adı": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "DESIRETT 75 MIKROGRAM 28 FILM TABLET",
    "Barkod": 8681026050310,
    "ATC Kodu": "G03AC09",
@@ -19292,15 +20111,6 @@
    "ATC Kodu": "G03AA09",
    "ATC Adı": "desogestrel and ethinylestradiol",
    "Firma Adı": "ORGANON TURKEY İLAÇLARI LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "DESRINAL 5 MG 20 FILM KAPLI TABLET",
-   "Barkod": 8699578090630,
-   "ATC Kodu": "R06AX27",
-   "ATC Adı": "desloratadine",
-   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -21384,15 +22194,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "DOXEL READY 20 MG/1 ML IV INF. ICIN KON. COZ. ICEREN FLAKON",
-   "Barkod": 8699541761079,
-   "ATC Kodu": "L01CD02",
-   "ATC Adı": "docetaxel",
-   "Firma Adı": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "DOXEL READY 80 MG4 ML IV INF. ICIN KON. COZ. ICEREN FLAKON",
    "Barkod": 8699541761093,
    "ATC Kodu": "L01CD02",
@@ -21708,15 +22509,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "DROPIA-MET 15/500 MG 90 FILM KAPLI TABLET",
-   "Barkod": 8699536093321,
-   "ATC Kodu": "A10BD05",
-   "ATC Adı": "metformin and pioglitazone",
-   "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "DROPIA-MET 15/850 MG 30 FILM KAPLI TABLET",
    "Barkod": 8699536092911,
    "ATC Kodu": "A10BD05",
@@ -21728,15 +22520,6 @@
  {
    "İlaç Adı": "DROPIA-MET 15/850 MG 60 FILM KAPLI TABLET",
    "Barkod": 8699536092928,
-   "ATC Kodu": "A10BD05",
-   "ATC Adı": "metformin and pioglitazone",
-   "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "DROPIA-MET 15/850 MG 90 FILM KAPLI TABLET",
-   "Barkod": 8699536092935,
    "ATC Kodu": "A10BD05",
    "ATC Adı": "metformin and pioglitazone",
    "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
@@ -21775,15 +22558,6 @@
    "Barkod": 8699591570423,
    "ATC Kodu": "R05DB20",
    "ATC Adı": "combinations",
-   "Firma Adı": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "DROPOLEV-S 30 MG/5 ML SURUP",
-   "Barkod": 8699591570621,
-   "ATC Kodu": "R05DB27",
-   "ATC Adı": "levodropropizine",
    "Firma Adı": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
@@ -21863,24 +22637,6 @@
  {
    "İlaç Adı": "DUOCID 250 MG/ 5 ML ORAL SÜSPANSİYON İÇİN KURU TOZ (100 ML)",
    "Barkod": 8681308281067,
-   "ATC Kodu": "J01CR04",
-   "ATC Adı": "sultamicillin",
-   "Firma Adı": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "DUOCID 250MG/5ML ORAL SÜSPANSİYON İÇİN KURU TOZ-40 ML",
-   "Barkod": 8681308281029,
-   "ATC Kodu": "J01CR04",
-   "ATC Adı": "sultamicillin",
-   "Firma Adı": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "DUOCID 250MG/5ML ORAL SÜSPANSİYON İÇİN KURU TOZ-70 ML",
-   "Barkod": 8681308281074,
    "ATC Kodu": "J01CR04",
    "ATC Adı": "sultamicillin",
    "Firma Adı": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
@@ -22316,15 +23072,6 @@
    "ATC Kodu": "R06AX22",
    "ATC Adı": "ebastine",
    "Firma Adı": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "EBETAXEL EBEWE 100MG/16,6ML IV INF. ICIN KON.COZ.ICEREN FLAKON",
-   "Barkod": 8699205760097,
-   "ATC Kodu": "L01CD01",
-   "ATC Adı": "paclitaxel",
-   "Firma Adı": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -23139,15 +23886,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "EMESET 8 MG/4ML IM/IV ENJEKSIYONLUK COZELTI ICEREN 1 AMPUL",
-   "Barkod": 8699828750611,
-   "ATC Kodu": "A04AA01",
-   "ATC Adı": "ondansetron",
-   "Firma Adı": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "EMFER 100MG/5ML ENJEKSİYON VE INFUZYON ICIN KONSANTRE COZELTI ICEREN AMPUL",
    "Barkod": 8699702755039,
    "ATC Kodu": "B03AC",
@@ -23436,11 +24174,11 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "ENFEROX 500 MG SUDA DAGILABILEN TABLET (28 TABLET)",
-   "Barkod": 8699680070087,
+   "İlaç Adı": "FEROUT S 500 MG SUDA DAGILABİLEN TABLET",
+   "Barkod": 8699543070377,
    "ATC Kodu": "V03AC03",
    "ATC Adı": "deferasirox",
-   "Firma Adı": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
+   "Firma Adı": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -23636,15 +24374,6 @@
  {
    "İlaç Adı": "ENSURE 2 CAL VANILYA AROMALI 200 ML",
    "Barkod": 8699548993893,
-   "ATC Kodu": "V06DB",
-   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
-   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "ENSURE 250 ML CILEKLI FSMP",
-   "Barkod": 8699548990878,
    "ATC Kodu": "V06DB",
    "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
    "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
@@ -25299,11 +26028,11 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "EXJADE 500 MG 28 ADET SUDA COZUNUR TABLET",
-   "Barkod": 8699504070033,
+   "İlaç Adı": "FUARTE 500 MG SUDA DAGILABILEN 28 TABLET",
+   "Barkod": 8699514070139,
    "ATC Kodu": "V03AC03",
    "ATC Adı": "deferasirox",
-   "Firma Adı": "NOVARTİS SAĞLIK GIDA VE TARIM ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Firma Adı": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -26064,11 +26793,11 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "FEROUT S 500 MG SUDA DAGILABİLEN TABLET",
-   "Barkod": 8699543070377,
+   "İlaç Adı": "FESOR 500 MG DAGILABILIR TABLET (28 TABLET)",
+   "Barkod": 8699536070285,
    "ATC Kodu": "V03AC03",
    "ATC Adı": "deferasirox",
-   "Firma Adı": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
+   "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -26235,11 +26964,11 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "FESOR 500 MG DAGILABILIR TABLET (28 TABLET)",
-   "Barkod": 8699536070285,
+   "İlaç Adı": "ENFEROX 500 MG SUDA DAGILABILEN TABLET (28 TABLET)",
+   "Barkod": 8699680070087,
    "ATC Kodu": "V03AC03",
    "ATC Adı": "deferasirox",
-   "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+   "Firma Adı": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -26528,15 +27257,6 @@
    "ATC Kodu": "R03AK11",
    "ATC Adı": "formoterol and fluticasone",
    "Firma Adı": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "FIXRIVA 27,5 MCG BURUN SPREYİ,SUSPANSIYON (120 DOZ)",
-   "Barkod": 8697936544610,
-   "ATC Kodu": "R01AD12",
-   "ATC Adı": "fluticasone furoate",
-   "Firma Adı": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -27621,15 +28341,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "FORTIMEL DRINK CIKOLATA AROMALI",
-   "Barkod": 8699711953365,
-   "ATC Kodu": "V06DB",
-   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
-   "Firma Adı": "NUMIL GIDA ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "FORTIMEL DRINK CIKOLATA AROMALI 200 ML",
    "Barkod": 8699745028930,
    "ATC Kodu": "V06DB",
@@ -28080,11 +28791,11 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "FUARTE 500 MG SUDA DAGILABILEN 28 TABLET",
-   "Barkod": 8699514070139,
+   "İlaç Adı": "EXJADE 500 MG 28 ADET SUDA COZUNUR TABLET",
+   "Barkod": 8699504070033,
    "ATC Kodu": "V03AC03",
    "ATC Adı": "deferasirox",
-   "Firma Adı": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
+   "Firma Adı": "NOVARTİS SAĞLIK GIDA VE TARIM ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -29169,33 +29880,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "GISMOTAL 100 MG 40 TABLET",
-   "Barkod": 8699578011215,
-   "ATC Kodu": "A03AA05",
-   "ATC Adı": "trimebutine",
-   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "GISMOTAL 200 MG FORT 20 TABLET",
-   "Barkod": 8699578011222,
-   "ATC Kodu": "A03AA05",
-   "ATC Adı": "trimebutine",
-   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "GISMOTAL 200 MG FORT 40 TABLET",
-   "Barkod": 8699578011239,
-   "ATC Kodu": "A03AA05",
-   "ATC Adı": "trimebutine",
-   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "GLARIN 100 U/ML SUBKUTAN KULLANIM ICIN ENJEKSIYONLUK COZELTI (5 KALEM)",
    "Barkod": 8699828950158,
    "ATC Kodu": "A10AE04",
@@ -29538,28 +30222,10 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "GLUCERNA SR CIKOLATA AROMALI 230 ML",
-   "Barkod": 8699548994937,
-   "ATC Kodu": "V06DB",
-   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
-   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "GLUCERNA SR CILEK AROMALI 220 ML",
    "Barkod": 8699548994319,
    "ATC Kodu": "V06DB",
    "ATC Adı": "fat/carbohydrates/proteins/minerals/vitamins, combinations",
-   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "GLUCERNA SR VANILYA 230 ML",
-   "Barkod": 8699548991370,
-   "ATC Kodu": "V06DB",
-   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
    "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
@@ -30020,15 +30686,6 @@
    "ATC Kodu": "N02BE51",
    "ATC Adı": "paracetamol, combinations excl. Psycholeptics",
    "Firma Adı": "İLKO İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "GRIZINC 15MG/5ML 100ML SURUP",
-   "Barkod": 8699612570074,
-   "ATC Kodu": "A12CB01",
-   "ATC Adı": "zinc sulfate",
-   "Firma Adı": "GRİPİN İLAÇ A.Ş",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -31122,15 +31779,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "HUMAN ALBUMIN %20 BERK 50 ML",
-   "Barkod": 8699686690012,
-   "ATC Kodu": "B05AA01",
-   "ATC Adı": "albumin",
-   "Firma Adı": "BERK İLAÇ İTHALAT VE PAZARLAMA A.Ş",
-   "Reçete Türü": "Mor",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "HUMAN ALBUMIN %20 TAKEDA 100 ML IV INFUZYON ICIN COZELTI ICEREN FLAKON",
    "Barkod": 8681429550110,
    "ATC Kodu": "B05AA01",
@@ -32211,7 +32859,7 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "IMIGRAN SUBJECT 6MG/0,5MG 2 KARTUS + OTOENJEKTOR",
+   "İlaç Adı": "IMIGRAN SUBJECT 6MG/0,5ML 2 KARTUS + OTOENJEKTOR",
    "Barkod": 8699522952939,
    "ATC Kodu": "N02CC01",
    "ATC Adı": "sumatriptan",
@@ -32271,24 +32919,6 @@
    "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
    "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
    "Reçete Türü": "Mor",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "IMNOVID 1 MG 21 SERT KAPSUL",
-   "Barkod": 8699538154860,
-   "ATC Kodu": "L04AX06",
-   "ATC Adı": "pomalidomide",
-   "Firma Adı": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "IMNOVID 2 MG 21 SERT KAPSUL",
-   "Barkod": 8699538154877,
-   "ATC Kodu": "L04AX06",
-   "ATC Adı": "pomalidomide",
-   "Firma Adı": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
  {
@@ -34227,15 +34857,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "JUVELTA 880 MG/1 G GRANUL (20 SASE)",
-   "Barkod": 8699527240147,
-   "ATC Kodu": "V03AE01",
-   "ATC Adı": "polystyrene sulfonate",
-   "Firma Adı": "SANTA FARMA İLAÇ SAN. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "K.R. ENEMA 161 MG/ML + 59 MG/ML REKTAL COZELTI (210 ML)",
    "Barkod": 8699544356500,
    "ATC Kodu": "A06AG01",
@@ -34403,141 +35024,6 @@
    "ATC Kodu": "V07AY",
    "ATC Adı": "Other non-therapeutic auxiliary products",
    "Firma Adı": "MT SAGLIK URUNLERI SANAYI VE TICARET A.S.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS % 0,9 IZOTONIK SODYUM KLORUR SUDAKI COZELTISI PP 1000 ML SETLI",
-   "Barkod": 8699535691146,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS % 0,9 IZOTONIK SODYUM KLORUR SUDAKI COZELTISI PP 1000 ML SETSIZ",
-   "Barkod": 8699535690149,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS % 0,9 IZOTONIK SODYUM KLORUR SUDAKI COZELTISI PP 500 ML SETLI",
-   "Barkod": 8699535691139,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS % 0,9 IZOTONIK SODYUM KLORUR SUDAKI COZELTISI PP 500 ML SETSIZ",
-   "Barkod": 8699535690132,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS % 5 DEKSTROZ PVC 100 ML SOLUSYON",
-   "Barkod": 8699535691320,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS % 5 DEKSTROZ PVC 150 ML SOLUSYON",
-   "Barkod": 8699535691351,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS % 5 DEKSTROZ PVC 250 ML SOLUSYON",
-   "Barkod": 8699535691368,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS %5 DEKSTROZ SUDAKI SOLUSYONU PP TORBA 1000 ML SETLI",
-   "Barkod": 8699535691344,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS %5 DEKSTROZ SUDAKI SOLUSYONU PP TORBA 1000 ML SETSIZ",
-   "Barkod": 8699535690347,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS %5 DEKSTROZ SUDAKI SOLUSYONU PP TORBA 500 ML SETLI",
-   "Barkod": 8699535691337,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANFLEKS %5 DEKSTROZ SUDAKI SOLUSYONU PP TORBA 500 ML SETSIZ",
-   "Barkod": 8699535690330,
-   "ATC Kodu": "B05BA03",
-   "ATC Adı": "carbohydrates",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANSUK % 0,9 SODYUM KLO. PVC 100 ML SOLUSYON",
-   "Barkod": 8699535691122,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANSUK % 0,9 SODYUM KLO. PVC 150 ML SOLUSYON",
-   "Barkod": 8699535691177,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANSUK % 0,9 SODYUM KLO. PVC 250 ML SOLUSYON",
-   "Barkod": 8699535691184,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KANSUK % 0,9 SODYUM KLO. PVC 3000 ML SOLUSYON",
-   "Barkod": 8699535691160,
-   "ATC Kodu": "B05XA03",
-   "ATC Adı": "sodium chloride",
-   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -34735,24 +35221,6 @@
    "Barkod": 8699809097742,
    "ATC Kodu": "C09CA04",
    "ATC Adı": "irbesartan",
-   "Firma Adı": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KARVEA DUO 150 MG/10 MG 28 FILM KAPLI TABLET",
-   "Barkod": 8699809098633,
-   "ATC Kodu": "C09DB05",
-   "ATC Adı": "irbesartan and amlodipine",
-   "Firma Adı": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KARVEA DUO 150 MG/5 MG 28 FILM KAPLI TABLET",
-   "Barkod": 8699809098626,
-   "ATC Kodu": "C09DB05",
-   "ATC Adı": "irbesartan and amlodipine",
    "Firma Adı": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
@@ -35289,15 +35757,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "KEYRELAKS 4 MG/2 ML IM ENJEKSIYONLUK COZELTI",
-   "Barkod": 8681332750041,
-   "ATC Kodu": "M03BX05",
-   "ATC Adı": "thiocolchicoside",
-   "Firma Adı": "MENTA PHARMA İLAÇ SAN. VE TİC. LTD.ŞTİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "KEYTRUDA 100 MG/4 ML (25 MG/ML) INFUZYONLUK COZELTI",
    "Barkod": 8699636080160,
    "ATC Kodu": "L01FF02",
@@ -35408,15 +35867,6 @@
  {
    "İlaç Adı": "KLACID MR 500 MG 14 KONT. SAL. TABLET",
    "Barkod": 8699548030864,
-   "ATC Kodu": "J01FA09",
-   "ATC Adı": "clarithromycin",
-   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "KLACID MR 500 MG 20 KONT. SAL. TABLET",
-   "Barkod": 8699548031601,
    "ATC Kodu": "J01FA09",
    "ATC Adı": "clarithromycin",
    "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
@@ -36831,7 +37281,7 @@
    "İlaç Adı": "LANVIS 40 MG 25 TABLET",
    "Barkod": 8699874080380,
    "ATC Kodu": "L01BB03",
-   "ATC Adı": "tıoguanın",
+   "ATC Adı": "tioguanin",
    "Firma Adı": "VLD DANIŞMANLIK TIBBİ ÜRÜNLER VE TANITIM HİZMETLERİ A. Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
@@ -37602,15 +38052,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "LEVITRA 20 MG 4 FILM TABLET",
-   "Barkod": 8699546092475,
-   "ATC Kodu": "G04BE09",
-   "ATC Adı": "vardenafil",
-   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "LEVMONT 2,5/4 MG 30 CIGNEME TABLET",
    "Barkod": 8699976081216,
    "ATC Kodu": "R03DC53",
@@ -37868,15 +38309,6 @@
    "ATC Kodu": "G04BE08",
    "ATC Adı": "tadalafil",
    "Firma Adı": "NOBEL İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "LEXUR 500 MG 7 FILM TABLET",
-   "Barkod": 8680008010571,
-   "ATC Kodu": "J01MA12",
-   "ATC Adı": "levofloxacin",
-   "Firma Adı": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -41508,15 +41940,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "MODULEN IBD 400 GR",
-   "Barkod": 8690632990910,
-   "ATC Kodu": "V06DB",
-   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
-   "Firma Adı": "NESTLE TÜRKİYE GIDA SANAYİ A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "MOFECEPT 250 MG 100 FILM TABLET",
    "Barkod": 8699828090908,
    "ATC Kodu": "L04AA06",
@@ -42770,15 +43193,6 @@
  {
    "İlaç Adı": "NANOGAM 20G/200 ML INFUZYONLUK COZELTI ICEREN FLAKON (1 FLAKON)",
    "Barkod": 8681735980427,
-   "ATC Kodu": "J06BA02",
-   "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
-   "Firma Adı": "CENTURİON İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-   "Reçete Türü": "Mor",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "NANOGAM 5 G/100 ML IV INFUZYON ICIN COZELTI ICEREN FLAKON",
-   "Barkod": 8681735980021,
    "ATC Kodu": "J06BA02",
    "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
    "Firma Adı": "CENTURİON İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
@@ -45180,15 +45594,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "NICORETTE FRESHMINT 2 MG 30 NANELI SAKIZ",
-   "Barkod": 8699593233098,
-   "ATC Kodu": "N07BA01",
-   "ATC Adı": "nicotine",
-   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "NICORETTE FRESHMINT 2 MG NANELI SAKIZ 105 TABLET",
    "Barkod": 8683873423224,
    "ATC Kodu": "N07BA01",
@@ -45225,29 +45630,11 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "NICORETTE INVISI 15 MG 7 NIKOTIN BANDI",
-   "Barkod": 8699593813429,
-   "ATC Kodu": "N07BA01",
-   "ATC Adı": "nicotine",
-   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "NICORETTE INVISI 15 MG/16 SAAT TRANSDERMAL FLASTER (7 FLASTER)",
    "Barkod": 8683873481323,
    "ATC Kodu": "N07BA01",
    "ATC Adı": "nicotine",
    "Firma Adı": "JNTL TURKEY TÜKETİCİ SAĞLIĞI LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "NICORETTE INVISI 25 MG 7 NIKOTIN BANDI",
-   "Barkod": 8699593813450,
-   "ATC Kodu": "N07BA01",
-   "ATC Adı": "nicotine",
-   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -47862,15 +48249,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "OSEFLU 30 MG GRANUL ICEREN 10 SASE",
-   "Barkod": 8680881242359,
-   "ATC Kodu": "J05AH02",
-   "ATC Adı": "oseltamivir",
-   "Firma Adı": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "OSEFLU 75 MG 10 KAPSUL",
    "Barkod": 8680881154591,
    "ATC Kodu": "J05AH02",
@@ -49293,15 +49671,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "PATRIL 20 MG ENTERIK TABLET (28 ENTERIK TABLET)",
-   "Barkod": 8699525040022,
-   "ATC Kodu": "A02BC04",
-   "ATC Adı": "rabeprazole",
-   "Firma Adı": "DEVA HOLDİNG A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "PAUSED 10 MG 21 SERT KAPSUL",
    "Barkod": 8680833150299,
    "ATC Kodu": "L04AX04",
@@ -49500,15 +49869,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "PEDIASURE FIBER VANILYA AROMALI (220 ML)",
-   "Barkod": 8699548995545,
-   "ATC Kodu": "V06DB",
-   "ATC Adı": "fat/carbohydrates/proteins/minerals/vitamins, combinations",
-   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "PEDIASURE KAKAOLU 220 ML SISE",
    "Barkod": 8699548994074,
    "ATC Kodu": "V06DB",
@@ -49667,15 +50027,6 @@
    "ATC Kodu": "A06AD65",
    "ATC Adı": "macrogol, combinations",
    "Firma Adı": "DİNÇSA İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "PEGEA % 0,005 GOZ DAMLASI,COZELTISI",
-   "Barkod": 8699569610342,
-   "ATC Kodu": "S01EE01",
-   "ATC Adı": "latanoprost",
-   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -50063,15 +50414,6 @@
    "ATC Kodu": "A01AD11",
    "ATC Adı": "various",
    "Firma Adı": "KENTFARMA İLAÇ ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "PERIZOL 10 MG FILM KAPLI TABLET (50 TABLET)",
-   "Barkod": 8699808090218,
-   "ATC Kodu": "H03BB02",
-   "ATC Adı": "thiamazole",
-   "Firma Adı": "MERCK İLAÇ ECZA VE KİMYA TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -53559,15 +53901,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "PRAKTEN 2 MG/5 ML SURUP",
-   "Barkod": 8699516576097,
-   "ATC Kodu": "R06AX02",
-   "ATC Adı": "cyproheptadine",
-   "Firma Adı": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "PRALAS 100 MCG/ 20 MCG INHALASYON ICIN OLCULU DOZ AEROSOL",
    "Barkod": 8699525520166,
    "ATC Kodu": "R03AL02",
@@ -55161,15 +55494,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "QUET XR 300 MG UZATILMIS SALIMLI 30 TABLET",
-   "Barkod": 8699525030108,
-   "ATC Kodu": "N05AH04",
-   "ATC Adı": "quetiapine",
-   "Firma Adı": "DEVA HOLDİNG A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "QUET XR 400 MG UZATILMIS SALIMLI 30 TABLET",
    "Barkod": 8699525030122,
    "ATC Kodu": "N05AH04",
@@ -55328,15 +55652,6 @@
    "ATC Kodu": "A02BC04",
    "ATC Adı": "rabeprazole",
    "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "RANESEVA 800 MG FILM KAPLI TABLET (180 TABLET)",
-   "Barkod": 8680008040325,
-   "ATC Kodu": "V03AE02",
-   "ATC Adı": "sevelamer",
-   "Firma Adı": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -56283,15 +56598,6 @@
    "ATC Adı": "agalsidase alfa",
    "Firma Adı": "TAKEDA İLAÇ SAĞLIK SANAYİ TİCARET LTD.ŞTİ.",
    "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "REPLENINE-VF 500 IU/10 ML IV ENJEKSIYONLUK LIYOFILIZE TOZ ICEREN 1 FLAKON",
-   "Barkod": 8697507980168,
-   "ATC Kodu": "B02BD04",
-   "ATC Adı": "coagulation factor ıx",
-   "Firma Adı": "VİTALİS SAĞLIK ÜRÜNLERİ DANIŞMANLIK VE TİCARET ANONİM ŞİRKETİ",
-   "Reçete Türü": "Turuncu",
    "Durumu": "Aktif"
  },
  {
@@ -59499,15 +59805,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "SERODERM %0,1 30 GR POMAT",
-   "Barkod": 8699649380141,
-   "ATC Kodu": "D07AC01",
-   "ATC Adı": "betamethasone",
-   "Firma Adı": "CASEL ECZACI CAHİT SELİMOĞLU İLAÇ SANAYİİ VE TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "SEROQUEL 100 MG 30 FILM TABLET",
    "Barkod": 8699786092655,
    "ATC Kodu": "N05AH04",
@@ -60062,15 +60359,6 @@
    "ATC Kodu": "A03AX13",
    "ATC Adı": "silicones",
    "Firma Adı": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "SIMGAST 680 MG/80 MG/25 MG CIGNEME TABLETI (12 TABLET)",
-   "Barkod": 8680760080256,
-   "ATC Kodu": "A02AF02",
-   "ATC Adı": "ordinary salt combinations and antiflatulents",
-   "Firma Adı": "HUMANİS SAĞLIK ANONİM ŞİRKETİ",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -61353,53 +61641,8 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "STRATTERA 10 MG 28 KAPSUL",
-   "Barkod": 8699673150192,
-   "ATC Kodu": "N06BA09",
-   "ATC Adı": "atomoxetine",
-   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "STRATTERA 18 MG 28 KAPSUL",
-   "Barkod": 8699673150215,
-   "ATC Kodu": "N06BA09",
-   "ATC Adı": "atomoxetine",
-   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "STRATTERA 25 MG 28 KAPSUL",
-   "Barkod": 8699673150239,
-   "ATC Kodu": "N06BA09",
-   "ATC Adı": "atomoxetine",
-   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "STRATTERA 4 MG/ML ORAL COZELTI (100 ML)",
    "Barkod": 8699673156019,
-   "ATC Kodu": "N06BA09",
-   "ATC Adı": "atomoxetine",
-   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "STRATTERA 40 MG 28 KAPSUL",
-   "Barkod": 8699673150253,
-   "ATC Kodu": "N06BA09",
-   "ATC Adı": "atomoxetine",
-   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "STRATTERA 80 MG 28 KAPSUL",
-   "Barkod": 8699673150284,
    "ATC Kodu": "N06BA09",
    "ATC Adı": "atomoxetine",
    "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
@@ -62973,15 +63216,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "TEFECTUS 2G/10 ML ORAL COZELTI (10 FLAKON)",
-   "Barkod": 8681986160357,
-   "ATC Kodu": "A16AA01",
-   "ATC Adı": "levocarnitine",
-   "Firma Adı": "TEBEM İLAÇ SANAYİ TURİZM VE TİCARET ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "TEGELINE 10 G 200 ML IV ENJ. ICIN LIYOFILIZE TOZ ICEREN FLAKON",
    "Barkod": 8699538983651,
    "ATC Kodu": "J06BA02",
@@ -63041,15 +63275,6 @@
    "ATC Kodu": "N03AF01",
    "ATC Adı": "carbamazepine",
    "Firma Adı": "NOVARTİS SAĞLIK GIDA VE TARIM ÜRÜNLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "TEICOJECT 200 MG IM/IV ENJEKSIYONLUK COZELTI HAZIRLAMAK ICIN TOZ VE COZUCU",
-   "Barkod": 8699814790119,
-   "ATC Kodu": "J01XA02",
-   "ATC Adı": "teicoplanin",
-   "Firma Adı": "TÜM - EKİP İLAÇ A.Ş",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -64040,15 +64265,6 @@
    "ATC Kodu": "J01AA12",
    "ATC Adı": "tigecycline",
    "Firma Adı": "CENTURİON İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
-   "İlaç Adı": "TIGEJECT 50 MG IV INFUZYON COZ. ICIN LIYOFILIZE TOZ ICEREN 10 FLAKON",
-   "Barkod": 8699814790058,
-   "ATC Kodu": "J01AA12",
-   "ATC Adı": "tigecycline",
-   "Firma Adı": "TÜM - EKİP İLAÇ A.Ş",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
  },
@@ -69903,15 +70119,6 @@
    "Durumu": "Aktif"
  },
  {
-   "İlaç Adı": "ZIRID 50 MG 40 FILM TABLET",
-   "Barkod": 8699502093430,
-   "ATC Kodu": "A03FA07",
-   "ATC Adı": "itopride",
-   "Firma Adı": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Aktif"
- },
- {
    "İlaç Adı": "ZIROMIN 200 MG/5 ML ORAL SUSPANSIYON HAZIRLAMAK ICIN KURU TOZ",
    "Barkod": 8680199284133,
    "ATC Kodu": "J01FA10",
@@ -70540,6 +70747,870 @@
    "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Aktif"
+ },
+ {
+   "İlaç Adı": "ZOVALOX 250 MG INFUZYONLUK COZELTI HAZIRLAMADA KULLANILACAK KONSANTRE ICIN TOZ",
+   "Barkod": 8680222790228,
+   "ATC Kodu": "J05AB01",
+   "ATC Adı": "aciclovir",
+   "Firma Adı": "HAVER TRAKYA İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "ANTIBEKSIN 100 ML SURUP",
+   "Barkod": 8698978570018,
+   "ATC Kodu": "R05CA10",
+   "ATC Adı": "combinations",
+   "Firma Adı": "YAVUZ İLAÇ ECZA DEPOSU MEDİKAL ÜRÜNLER SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KIDYFEN PEDIATRIK SUSPANSIYON",
+   "Barkod": 8680008010649,
+   "ATC Kodu": "M01AE01",
+   "ATC Adı": "ibuprofen",
+   "Firma Adı": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "ALQUIRA %5 KREM",
+   "Barkod": 8683262443123,
+   "ATC Kodu": "D06BB10",
+   "ATC Adı": "imiquimod",
+   "Firma Adı": "BEYMED İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "A-NOX FORT 550 MG 20 TABLET",
+   "Barkod": 8699651010210,
+   "ATC Kodu": "M01AE02",
+   "ATC Adı": "naproxen",
+   "Firma Adı": "AROMA İLAÇ SAN.LTD.ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "BALVERSA 3 MG FILM KAPLI TABLET (56 TABLET)",
+   "Barkod": 8699593095627,
+   "ATC Kodu": "L01EN01",
+   "ATC Adı": "erdafitinib",
+   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "BALVERSA 3 MG FILM KAPLI TABLET (84 TABLET)",
+   "Barkod": 8699593095634,
+   "ATC Kodu": "L01EN01",
+   "ATC Adı": "erdafitinib",
+   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "BRAVEX 400 MG YUMUSAK KAPSUL (30 KAPSUL)",
+   "Barkod": 8680199197662,
+   "ATC Kodu": "M01AE01",
+   "ATC Adı": "ibuprofen",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "CLAIRYG 50 MG/ML, 100 ML INFUZYONLUK COZELTI (1 FLAKON)",
+   "Barkod": 8699538983699,
+   "ATC Kodu": "J06BA02",
+   "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
+   "Firma Adı": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Mor",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "CLOPIXOL 10 MG FILM KAPLI TABLET (100 TABLET)",
+   "Barkod": 8699795091359,
+   "ATC Kodu": "N05AF05",
+   "ATC Adı": "zuclopenthixol",
+   "Firma Adı": "LUNDBECK İLAÇ TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "COVERAM 7 MG/5 MG TABLET (30 TABLET)",
+   "Barkod": 8699552091066,
+   "ATC Kodu": "C09BB04",
+   "ATC Adı": "perindopril and amlodipine",
+   "Firma Adı": "SERVIER ILAÇ VE ARAŞTIRMA A.S.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "CRESTOR 40 MG 28 FILM TABLET",
+   "Barkod": 8699786090187,
+   "ATC Kodu": "C10AA07",
+   "ATC Adı": "rosuvastatin",
+   "Firma Adı": "ASTRAZENECA İLAÇ SAN.VE TİC.LTD.ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "CYOVEL 75 MG SERT KAPSUL (10 ADET)",
+   "Barkod": 8699536150789,
+   "ATC Kodu": "J05AH02",
+   "ATC Adı": "oseltamivir",
+   "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "DESRINAL 5 MG 20 FILM KAPLI TABLET",
+   "Barkod": 8699578090630,
+   "ATC Kodu": "R06AX27",
+   "ATC Adı": "desloratadine",
+   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "DROPIA-MET 15/500 MG 90 FILM KAPLI TABLET",
+   "Barkod": 8699536093321,
+   "ATC Kodu": "A10BD05",
+   "ATC Adı": "metformin and pioglitazone",
+   "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "DROPIA-MET 15/850 MG 90 FILM KAPLI TABLET",
+   "Barkod": 8699536092935,
+   "ATC Kodu": "A10BD05",
+   "ATC Adı": "metformin and pioglitazone",
+   "Firma Adı": "SANOVEL İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "DUOCID 250MG/5ML ORAL SUSPANSIYON ICIN KURU TOZ-40 ML",
+   "Barkod": 8681308281029,
+   "ATC Kodu": "J01CR04",
+   "ATC Adı": "sultamicillin",
+   "Firma Adı": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "DUOCID 250MG/5ML ORAL SUSPANSIYON ICIN KURU TOZ-70 ML",
+   "Barkod": 8681308281074,
+   "ATC Kodu": "J01CR04",
+   "ATC Adı": "sultamicillin",
+   "Firma Adı": "PFİZER PFE İLAÇLARI ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "EBETAXEL 100MG/16,6ML IV INF. ICIN KON.COZ.ICEREN FLAKON",
+   "Barkod": 8699205760097,
+   "ATC Kodu": "L01CD01",
+   "ATC Adı": "paclitaxel",
+   "Firma Adı": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "FORTIMEL DRINK CIKOLATA AROMALI",
+   "Barkod": 8699711953365,
+   "ATC Kodu": "V06DB",
+   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
+   "Firma Adı": "NUMIL GIDA ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "GLUCERNA SR CIKOLATA AROMALI 230 ML",
+   "Barkod": 8699548994937,
+   "ATC Kodu": "V06DB",
+   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
+   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "GLUCERNA SR VANILYA AROMALI 230 ML",
+   "Barkod": 8699548991370,
+   "ATC Kodu": "V06DB",
+   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
+   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "GRIZINC 15MG/5ML 100ML SURUP",
+   "Barkod": 8699612570074,
+   "ATC Kodu": "A12CB01",
+   "ATC Adı": "zinc sulfate",
+   "Firma Adı": "GRİPİN İLAÇ A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "HUMAN ALBUMIN OCTAPHARMA %20 IV INFUZYONLUK COZELTI, 50 ML",
+   "Barkod": 8699686690012,
+   "ATC Kodu": "B05AA01",
+   "ATC Adı": "albumin",
+   "Firma Adı": "BERK İLAÇ İTHALAT VE PAZARLAMA A.Ş",
+   "Reçete Türü": "Mor",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "IMNOVID 1 MG 21 SERT KAPSUL",
+   "Barkod": 8699538154860,
+   "ATC Kodu": "L04AX06",
+   "ATC Adı": "pomalidomide",
+   "Firma Adı": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "JUVELTA 880 MG/1 G GRANUL (20 SASE)",
+   "Barkod": 8699527240147,
+   "ATC Kodu": "V03AE01",
+   "ATC Adı": "polystyrene sulfonate",
+   "Firma Adı": "SANTA FARMA İLAÇ SAN. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "NANOGAM 5 G/100 ML IV INFUZYON ICIN COZELTI ICEREN FLAKON",
+   "Barkod": 8681735980021,
+   "ATC Kodu": "J06BA02",
+   "ATC Adı": "immunoglobulins, normal human, for intravascular adm.",
+   "Firma Adı": "CENTURİON İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Mor",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "OSEFLU 30 MG GRANUL ICEREN 10 SASE",
+   "Barkod": 8680881242359,
+   "ATC Kodu": "J05AH02",
+   "ATC Adı": "oseltamivir",
+   "Firma Adı": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "PATRIL 20 MG ENTERIK TABLET (28 ENTERIK TABLET)",
+   "Barkod": 8699525040022,
+   "ATC Kodu": "A02BC04",
+   "ATC Adı": "rabeprazole",
+   "Firma Adı": "DEVA HOLDİNG A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "PEDIASURE FIBER VANILYA AROMALI (220 ML)",
+   "Barkod": 8699548995545,
+   "ATC Kodu": "V06DB",
+   "ATC Adı": "fat/carbohydrates/proteins/minerals/vitamins, combinations",
+   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "PERIZOL 10 MG FILM KAPLI TABLET (50 TABLET)",
+   "Barkod": 8699808090218,
+   "ATC Kodu": "H03BB02",
+   "ATC Adı": "thiamazole",
+   "Firma Adı": "MERCK İLAÇ ECZA VE KİMYA TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "PRAKTEN 2 MG/5 ML SURUP",
+   "Barkod": 8699516576097,
+   "ATC Kodu": "R06AX02",
+   "ATC Adı": "cyproheptadine",
+   "Firma Adı": "SANDOZ İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "RANESEVA 800 MG FILM KAPLI TABLET (180 TABLET)",
+   "Barkod": 8680008040325,
+   "ATC Kodu": "V03AE02",
+   "ATC Adı": "sevelamer",
+   "Firma Adı": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "SERODERM %0,1 30 GR POMAT",
+   "Barkod": 8699649380141,
+   "ATC Kodu": "D07AC01",
+   "ATC Adı": "betamethasone",
+   "Firma Adı": "CASEL ECZACI CAHİT SELİMOĞLU İLAÇ SANAYİİ VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "SIMGAST 680 MG/80 MG/25 MG CIGNEME TABLETI (12 TABLET)",
+   "Barkod": 8680760080256,
+   "ATC Kodu": "A02AF02",
+   "ATC Adı": "ordinary salt combinations and antiflatulents",
+   "Firma Adı": "HUMANİS SAĞLIK ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "STRATTERA 10 MG 28 KAPSUL",
+   "Barkod": 8699673150192,
+   "ATC Kodu": "N06BA09",
+   "ATC Adı": "atomoxetine",
+   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "STRATTERA 18 MG 28 KAPSUL",
+   "Barkod": 8699673150215,
+   "ATC Kodu": "N06BA09",
+   "ATC Adı": "atomoxetine",
+   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "STRATTERA 25 MG 28 KAPSUL",
+   "Barkod": 8699673150239,
+   "ATC Kodu": "N06BA09",
+   "ATC Adı": "atomoxetine",
+   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "STRATTERA 40 MG 28 KAPSUL",
+   "Barkod": 8699673150253,
+   "ATC Kodu": "N06BA09",
+   "ATC Adı": "atomoxetine",
+   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "STRATTERA 80 MG 28 KAPSUL",
+   "Barkod": 8699673150284,
+   "ATC Kodu": "N06BA09",
+   "ATC Adı": "atomoxetine",
+   "Firma Adı": "LİLLY İLAÇ TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "TEFECTUS 2G/10 ML ORAL COZELTI (10 FLAKON)",
+   "Barkod": 8681986160357,
+   "ATC Kodu": "A16AA01",
+   "ATC Adı": "levocarnitine",
+   "Firma Adı": "TEBEM İLAÇ SANAYİ TURİZM VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "TEICOJECT 200 MG IM/IV ENJEKSIYONLUK COZELTI HAZIRLAMAK ICIN TOZ VE COZUCU",
+   "Barkod": 8699814790119,
+   "ATC Kodu": "J01XA02",
+   "ATC Adı": "teicoplanin",
+   "Firma Adı": "TÜM - EKİP İLAÇ A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "TIGEJECT 50 MG IV INFUZYON COZ. ICIN LIYOFILIZE TOZ ICEREN 10 FLAKON",
+   "Barkod": 8699814790058,
+   "ATC Kodu": "J01AA12",
+   "ATC Adı": "tigecycline",
+   "Firma Adı": "TÜM - EKİP İLAÇ A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "ZIRID 50 MG 40 FILM TABLET",
+   "Barkod": 8699502093430,
+   "ATC Kodu": "A03FA07",
+   "ATC Adı": "itopride",
+   "Firma Adı": "SANOFİ İLAÇ SANAYİ ve TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "ENSURE 250 ML CILEKLI FSMP",
+   "Barkod": 8699548990878,
+   "ATC Kodu": "V06DB",
+   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
+   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "LEXUR 500 MG 7 FILM TABLET",
+   "Barkod": 8680008010571,
+   "ATC Kodu": "J01MA12",
+   "ATC Adı": "levofloxacin",
+   "Firma Adı": "HELBA İLAÇ İÇ VE DIŞ SANAYİ TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "ZITRASIN 200 MG/5 ML ORAL SUSPANSIYON HAZIRLAMAK ICIN TOZ (30 ML)",
+   "Barkod": 8680199026993,
+   "ATC Kodu": "J01FA10",
+   "ATC Adı": "azithromycin",
+   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "ACMEL 500 MG/5 ML IM/IV/SC ENJEKSIYONLUK COZELTI (5 ADET)",
+   "Barkod": 8681332750010,
+   "ATC Kodu": "A11GA01",
+   "ATC Adı": "ascorbic acid (vit c)",
+   "Firma Adı": "MENTA PHARMA İLAÇ SAN. VE TİC. LTD.ŞTİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KEYRELAKS 4 MG/2 ML IM ENJEKSIYONLUK COZELTI",
+   "Barkod": 8681332750041,
+   "ATC Kodu": "M03BX05",
+   "ATC Adı": "thiocolchicoside",
+   "Firma Adı": "MENTA PHARMA İLAÇ SAN. VE TİC. LTD.ŞTİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "BECONYL 1,5 MG + 66,5 MG/ 5 ML SURUP (100 ML)",
+   "Barkod": 8681725054701,
+   "ATC Kodu": "R03CC53",
+   "ATC Adı": "terbutaline, combinations",
+   "Firma Adı": "ABAYPHARMA SAĞLIK ÜRÜNLERİ SAN. TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "MODULEN IBD 400 GR",
+   "Barkod": 8690632990910,
+   "ATC Kodu": "V06DB",
+   "ATC Adı": "Fat/carbohydrates/proteins/minerals/vitamins, combinations",
+   "Firma Adı": "NESTLE TÜRKİYE GIDA SANAYİ A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "REPLENINE-VF 500 IU/10 ML IV ENJEKSIYONLUK LIYOFILIZE TOZ ICEREN 1 FLAKON",
+   "Barkod": 8697507980168,
+   "ATC Kodu": "B02BD04",
+   "ATC Adı": "coagulation factor ıx",
+   "Firma Adı": "VİTALİS SAĞLIK ÜRÜNLERİ DANIŞMANLIK VE TİCARET ANONİM ŞİRKETİ",
+   "Reçete Türü": "Turuncu",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "FIXRIVA 27,5 MCG BURUN SPREYİ,SUSPANSIYON (120 DOZ)",
+   "Barkod": 8697936544610,
+   "ATC Kodu": "R01AD12",
+   "ATC Adı": "fluticasone furoate",
+   "Firma Adı": "NEUTEC İLAÇ SAN. TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "ACTIFED 150 ML SURUP",
+   "Barkod": 8699522575176,
+   "ATC Kodu": "R01BA52",
+   "ATC Adı": "pseudoephedrine, combinations",
+   "Firma Adı": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "QUET XR 300 MG UZATILMIS SALIMLI 30 TABLET",
+   "Barkod": 8699525030108,
+   "ATC Kodu": "N05AH04",
+   "ATC Adı": "quetiapine",
+   "Firma Adı": "DEVA HOLDİNG A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "IMNOVID 2 MG 21 SERT KAPSUL",
+   "Barkod": 8699538154877,
+   "ATC Kodu": "L04AX06",
+   "ATC Adı": "pomalidomide",
+   "Firma Adı": "ER-KİM İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "DOXEL READY 20 MG/1 ML IV INF. ICIN KON. COZ. ICEREN FLAKON",
+   "Barkod": 8699541761079,
+   "ATC Kodu": "L01CD02",
+   "ATC Adı": "docetaxel",
+   "Firma Adı": "GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "LEVITRA 20 MG 4 FILM TABLET",
+   "Barkod": 8699546092475,
+   "ATC Kodu": "G04BE09",
+   "ATC Adı": "vardenafil",
+   "Firma Adı": "BAYER TÜRK KİMYA SAN. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KLACID MR 500 MG 20 KONT. SAL. TABLET",
+   "Barkod": 8699548031601,
+   "ATC Kodu": "J01FA09",
+   "ATC Adı": "clarithromycin",
+   "Firma Adı": "ABBOTT LABORATUARLARI İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "BENVIDA 200 MG 56 FILM KAPLI TABLET",
+   "Barkod": 8699569092742,
+   "ATC Kodu": "N03AX18",
+   "ATC Adı": "lacosamide",
+   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "PEGEA % 0,005 GOZ DAMLASI,COZELTISI",
+   "Barkod": 8699569610342,
+   "ATC Kodu": "S01EE01",
+   "ATC Adı": "latanoprost",
+   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "GISMOTAL 100 MG 40 TABLET",
+   "Barkod": 8699578011215,
+   "ATC Kodu": "A03AA05",
+   "ATC Adı": "trimebutine",
+   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "GISMOTAL 200 MG FORT 20 TABLET",
+   "Barkod": 8699578011222,
+   "ATC Kodu": "A03AA05",
+   "ATC Adı": "trimebutine",
+   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "GISMOTAL 200 MG FORT 40 TABLET",
+   "Barkod": 8699578011239,
+   "ATC Kodu": "A03AA05",
+   "ATC Adı": "trimebutine",
+   "Firma Adı": "BİOFARMA İLAÇ SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "DROPOLEV-S 30 MG/5 ML SURUP",
+   "Barkod": 8699591570621,
+   "ATC Kodu": "R05DB27",
+   "ATC Adı": "levodropropizine",
+   "Firma Adı": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "DESIFEROL S 50000 IU/ 15 ML ORAL DAMLA, COZELTI",
+   "Barkod": 8699591590087,
+   "ATC Kodu": "A11CC05",
+   "ATC Adı": "colecalciferol",
+   "Firma Adı": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "NICORETTE FRESHMINT 2 MG 30 NANELI SAKIZ",
+   "Barkod": 8699593233098,
+   "ATC Kodu": "N07BA01",
+   "ATC Adı": "nicotine",
+   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "NICORETTE INVISI 15 MG 7 NIKOTIN BANDI",
+   "Barkod": 8699593813429,
+   "ATC Kodu": "N07BA01",
+   "ATC Adı": "nicotine",
+   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "NICORETTE INVISI 25 MG 7 NIKOTIN BANDI",
+   "Barkod": 8699593813450,
+   "ATC Kodu": "N07BA01",
+   "ATC Adı": "nicotine",
+   "Firma Adı": "JOHNSON AND JOHNSON SIHHİ MAL. SAN. VE TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "ABITIGA 250 MG FILM KAPLI TABLET",
+   "Barkod": 8699638095513,
+   "ATC Kodu": "L02BX03",
+   "ATC Adı": "abiraterone",
+   "Firma Adı": "TEVA İLAÇLARI SANAYİ VE TİCARET A.Ş",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "CLOPIXOL 25 MG FILM KAPLI TABLET (20 TABLET)",
+   "Barkod": 8699795091366,
+   "ATC Kodu": "N05AF05",
+   "ATC Adı": "zuclopenthixol",
+   "Firma Adı": "LUNDBECK İLAÇ TİC. LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KARVEA DUO 150 MG/5 MG 28 FILM KAPLI TABLET",
+   "Barkod": 8699809098626,
+   "ATC Kodu": "C09DB05",
+   "ATC Adı": "irbesartan and amlodipine",
+   "Firma Adı": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KARVEA DUO 150 MG/10 MG 28 FILM KAPLI TABLET",
+   "Barkod": 8699809098633,
+   "ATC Kodu": "C09DB05",
+   "ATC Adı": "irbesartan and amlodipine",
+   "Firma Adı": "SANOFİ SAĞLIK ÜRÜNLERİ LTD. ŞTİ.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "EMESET 8 MG/4ML IM/IV ENJEKSIYONLUK COZELTI ICEREN 1 AMPUL",
+   "Barkod": 8699828750611,
+   "ATC Kodu": "A04AA01",
+   "ATC Adı": "ondansetron",
+   "Firma Adı": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "%0,9 SODYUM KLORUR PVC 100 ML SOLUSYON",
+   "Barkod": 8699535690125,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "%0,9 SODYUM KLORUR PVC 150 ML SOLUSYON",
+   "Barkod": 8699535690170,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "%0,9 SODYUM KLORUR PVC 250 ML SOLUSYON",
+   "Barkod": 8699535690187,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "%0,9 SODYUM KLORUR PVC 3000 ML SOLUSYON",
+   "Barkod": 8699535690163,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "%5 DEKSTROZ PVC 100 ML SOLUSYON",
+   "Barkod": 8699535690323,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "%5 DEKSTROZ PVC 150 ML SOLUSYON",
+   "Barkod": 8699535690354,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "%5 DEKSTROZ PVC 250 ML SOLUSYON",
+   "Barkod": 8699535690361,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS % 0,9 IZOTONIK SODYUM KLORUR SUDAKI COZELTISI PP 1000 ML SETLI",
+   "Barkod": 8699535691146,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS % 0,9 IZOTONIK SODYUM KLORUR SUDAKI COZELTISI PP 1000 ML SETSIZ",
+   "Barkod": 8699535690149,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS % 0,9 IZOTONIK SODYUM KLORUR SUDAKI COZELTISI PP 500 ML SETLI",
+   "Barkod": 8699535691139,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS % 0,9 IZOTONIK SODYUM KLORUR SUDAKI COZELTISI PP 500 ML SETSIZ",
+   "Barkod": 8699535690132,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS % 5 DEKSTROZ PVC 100 ML SOLUSYON",
+   "Barkod": 8699535691320,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS % 5 DEKSTROZ PVC 150 ML SOLUSYON",
+   "Barkod": 8699535691351,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS % 5 DEKSTROZ PVC 250 ML SOLUSYON",
+   "Barkod": 8699535691368,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS %5 DEKSTROZ SUDAKI SOLUSYONU PP TORBA 1000 ML SETLI",
+   "Barkod": 8699535691344,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS %5 DEKSTROZ SUDAKI SOLUSYONU PP TORBA 1000 ML SETSIZ",
+   "Barkod": 8699535690347,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS %5 DEKSTROZ SUDAKI SOLUSYONU PP TORBA 500 ML SETLI",
+   "Barkod": 8699535691337,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANFLEKS %5 DEKSTROZ SUDAKI SOLUSYONU PP TORBA 500 ML SETSIZ",
+   "Barkod": 8699535690330,
+   "ATC Kodu": "B05BA03",
+   "ATC Adı": "carbohydrates",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANSUK % 0,9 SODYUM KLO. PVC 100 ML SOLUSYON",
+   "Barkod": 8699535691122,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANSUK % 0,9 SODYUM KLO. PVC 150 ML SOLUSYON",
+   "Barkod": 8699535691177,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANSUK % 0,9 SODYUM KLO. PVC 250 ML SOLUSYON",
+   "Barkod": 8699535691184,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
+ },
+ {
+   "İlaç Adı": "KANSUK % 0,9 SODYUM KLO. PVC 3000 ML SOLUSYON",
+   "Barkod": 8699535691160,
+   "ATC Kodu": "B05XA03",
+   "ATC Adı": "sodium chloride",
+   "Firma Adı": "KANSUK LABORATUARI SANAYİ VE TİCARET A.Ş.",
+   "Reçete Türü": "Normal",
+   "Durumu": "Pasif"
  },
  {
    "İlaç Adı": "TIREBRANT FORT 200 MG 20 TABLET",
@@ -71690,15 +72761,6 @@
    "ATC Kodu": "L01CA04",
    "ATC Adı": "vinorelbine",
    "Firma Adı": "PIERRE FABRE İLAÇ A.Ş",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
-   "İlaç Adı": "NEOMIXOLE 750/200/100 MG VAJINAL TABLET",
-   "Barkod": 8699580100013,
-   "ATC Kodu": "G01AF20",
-   "ATC Adı": "combinations of imidazole derivatives",
-   "Firma Adı": "DROGSAN İLAÇLARI SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Pasif"
  },
@@ -77589,15 +78651,6 @@
    "Durumu": "Pasif"
  },
  {
-   "İlaç Adı": "ALVASTIN 80 MG 30 TABLET",
-   "Barkod": 8699543090542,
-   "ATC Kodu": "C10AA05",
-   "ATC Adı": "atorvastatin",
-   "Firma Adı": "ALİ RAİF İLAÇ SANAYİ A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
    "İlaç Adı": "ALVASTIN 80 MG 90 TABLET",
    "Barkod": 8699543090559,
    "ATC Kodu": "C10AA05",
@@ -78368,15 +79421,6 @@
    "ATC Kodu": "J01CA01",
    "ATC Adı": "ampicillin",
    "Firma Adı": "MUSTAFA NEVZAT",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
-   "İlaç Adı": "AMVASTAN 20 MG 30 FILM KAPLI TABLET",
-   "Barkod": 8680199090338,
-   "ATC Kodu": "C10AA05",
-   "ATC Adı": "atorvastatin",
-   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Pasif"
  },
@@ -81383,15 +82427,6 @@
    "ATC Kodu": "N06AG02",
    "ATC Adı": "moclobemide",
    "Firma Adı": "ROCHE",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
-   "İlaç Adı": "AVAMYS 27,5 MCG 120 DOZ BURUN SPREYI",
-   "Barkod": 8699522541379,
-   "ATC Kodu": "R01AD12",
-   "ATC Adı": "fluticasone furoate",
-   "Firma Adı": "GLAXOSMİTHKLİNE İLAÇLARI SAN. VE TİC. A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Pasif"
  },
@@ -102074,15 +103109,6 @@
    "ATC Kodu": "B03AB05",
    "ATC Adı": "ferric oxide polymaltose complexes",
    "Firma Adı": "BERKO İLAÇ VE KİMYA SAN. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
-   "İlaç Adı": "FERIMAX 100 MG/2 ML 5 AMPUL",
-   "Barkod": 8699569750215,
-   "ATC Kodu": "B03AC",
-   "ATC Adı": "Iron, parenteral preparations",
-   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Pasif"
  },
@@ -122805,15 +123831,6 @@
    "Durumu": "Pasif"
  },
  {
-   "İlaç Adı": "MOMECON % 0,05 BURUN SPREYI ,SUSPANSIYON (18 G)",
-   "Barkod": 8699569540069,
-   "ATC Kodu": "R01AD09",
-   "ATC Adı": "mometasone",
-   "Firma Adı": "BİLİM İLAÇ SANAYİİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
    "İlaç Adı": "MOMENTUM %0,1 LOSYON",
    "Barkod": 8699828480037,
    "ATC Kodu": "D07AC13",
@@ -128475,15 +129492,6 @@
    "Durumu": "Pasif"
  },
  {
-   "İlaç Adı": "OKSAPAR 8000 ANTI-XA IU/0,8 ML ENJEKSIYONLUK COZELTI ICEREN KULLANIMA HAZIR ENJEKTOR (2 ENJEKTOR)",
-   "Barkod": 8699828950127,
-   "ATC Kodu": "B01AB05",
-   "ATC Adı": "enoxaparin",
-   "Firma Adı": "KOÇAK FARMA İLAÇ VE KİMYA SANAYİ A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
    "İlaç Adı": "OKSIASKARIL SURUP 100 ML",
    "Barkod": 8699651570042,
    "ATC Kodu": "P02CB01",
@@ -132183,15 +133191,6 @@
    "Durumu": "Pasif"
  },
  {
-   "İlaç Adı": "PANOLIMUS 0,5 MG 50 KAPSUL",
-   "Barkod": 8699702156034,
-   "ATC Kodu": "L04AD02",
-   "ATC Adı": "tacrolimus",
-   "Firma Adı": "BİEM İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
    "İlaç Adı": "PANOSPORIN 100 MG 50 YUMUSAK JELATIN KAPSUL",
    "Barkod": 8699702196023,
    "ATC Kodu": "L04AD01",
@@ -132773,15 +133772,6 @@
    "ATC Kodu": "N02BF01",
    "ATC Adı": "gabapentin",
    "Firma Adı": "ABDİ İBRAHİM İLAÇ SANAYİ VE TİCARET A.Ş",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
-   "İlaç Adı": "PAUSED 5 MG 21 SERT KAPSUL",
-   "Barkod": 8680833150282,
-   "ATC Kodu": "L04AX04",
-   "ATC Adı": "lenalidomide",
-   "Firma Adı": "ARVEN İLAÇ SANAYİ VE TİCARET A.Ş.",
    "Reçete Türü": "Normal",
    "Durumu": "Pasif"
  },
@@ -142436,15 +143426,6 @@
  {
    "İlaç Adı": "ROTAZAR 150 MG FILM TABLET (28 TABLET)",
    "Barkod": 8680199093254,
-   "ATC Kodu": "C09CA04",
-   "ATC Adı": "irbesartan",
-   "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
-   "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
-   "İlaç Adı": "ROTAZAR 300 MG FILM TABLET (28 TABLET)",
-   "Barkod": 8680199093261,
    "ATC Kodu": "C09CA04",
    "ATC Adı": "irbesartan",
    "Firma Adı": "WORLD MEDICINE İLAÇ SAN. VE TİC. A.Ş.",
@@ -156687,15 +157668,6 @@
    "ATC Adı": "ceftibuten",
    "Firma Adı": "CELTIS ILAC",
    "Reçete Türü": "Normal",
-   "Durumu": "Pasif"
- },
- {
-   "İlaç Adı": "WINRHO SDF 1500 IU (300 MCG)/1,3 ML IV/IM ENJEKSIYONLUK COZELTI",
-   "Barkod": 8699733980769,
-   "ATC Kodu": "J06BB01",
-   "ATC Adı": "anti-d (rh) immunoglobulin",
-   "Firma Adı": "RA İLAÇ SANAYİ VE TİCARET A.Ş.",
-   "Reçete Türü": "Mor",
    "Durumu": "Pasif"
  },
  {
